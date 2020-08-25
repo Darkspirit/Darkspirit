@@ -5,7 +5,7 @@ Please support the following projects. It would be great to have such a future:
   * [relibc](https://github.com/redox-os/relibc) C library written in Rust
   * [reqwest](https://github.com/seanmonstar/reqwest) instead of curl
   * [Servo](https://github.com/servo/servo) web browser
-    * [Pathfinder](https://github.com/pcwalton/pathfinder) for Canvas, Font, SVG
+    * [Pathfinder](https://github.com/servo/pathfinder) for Canvas, Font, SVG
     * [Rustls](https://github.com/ctz/rustls)
       * [ring](https://github.com/briansmith/ring)
       * [WebPKI](https://github.com/briansmith/webpki)
