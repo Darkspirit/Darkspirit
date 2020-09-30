@@ -6,14 +6,15 @@ Please support the following projects. It would be great to have such a future:
   * [reqwest](https://github.com/seanmonstar/reqwest) instead of curl
   * [Servo](https://github.com/servo/servo) web browser
     * [Pathfinder](https://github.com/servo/pathfinder) for Canvas, Font, SVG
-    * [Rustls](https://github.com/ctz/rustls)
+    * [Rustls](https://github.com/ctz/rustls) (hopefully as TLS backend at some time)
       * [ring](https://github.com/briansmith/ring)
       * [WebPKI](https://github.com/briansmith/webpki)
-    * [rust-av](https://github.com/rust-av) as [media backend](https://github.com/servo/media/tree/master/backends)
+    * [rust-av](https://github.com/rust-av) (hopefully as [media backend](https://github.com/servo/media/tree/master/backends) at some time)
       * [mkv/webm](https://github.com/rust-av/matroska), mp4
       * [Playback](https://github.com/rust-av/avp)
-        * [Opus](https://github.com/lu-zero/opus), FLAC, MP3, AAC, AC3
-        * [AV1](https://github.com/rust-av/dav1d-rs), VAAPI (H264, H265, VP9), [VP8/VP9](https://github.com/rust-av/vpx-rs)
+        * [Opus](https://github.com/lu-zero/opus), FLAC
+        * [AV1](https://github.com/rust-av/dav1d-rs), [VP8/VP9](https://github.com/rust-av/vpx-rs)
+        * (hopefully even VAAPI, MP3, AAC, AC3 at some time in the future)
       * [Transcoding](https://github.com/rust-av/ave)
         * [rav1e](https://github.com/xiph/rav1e)
     * [WebRender](https://github.com/servo/webrender)
