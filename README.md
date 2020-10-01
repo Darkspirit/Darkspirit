@@ -14,7 +14,6 @@ Please support the following projects. It would be great to have such a future:
       * [Playback](https://github.com/rust-av/avp)
         * [Opus](https://github.com/lu-zero/opus), FLAC
         * [AV1](https://github.com/rust-av/dav1d-rs), [VP8/VP9](https://github.com/rust-av/vpx-rs)
-        * (hopefully even VAAPI, MP3, AAC, AC3 at some time in the future)
       * [Transcoding](https://github.com/rust-av/ave)
         * [rav1e](https://github.com/xiph/rav1e)
     * [WebRender](https://github.com/servo/webrender)
