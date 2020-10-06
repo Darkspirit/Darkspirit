@@ -9,10 +9,10 @@ Please support the following projects. It would be great to have such a future:
     * [Rustls](https://github.com/ctz/rustls) (hopefully as TLS backend at some time)
       * [ring](https://github.com/briansmith/ring)
       * [WebPKI](https://github.com/briansmith/webpki)
-    * [rust-av](https://github.com/rust-av) (hopefully as [media backend](https://github.com/servo/media/tree/master/backends) at some time)
+    * [rust-av](https://github.com/rust-av) (goal: hopefully as [media backend](https://github.com/servo/media/tree/master/backends) sometime in the future)
       * [mkv/webm](https://github.com/rust-av/matroska), mp4
       * [Playback](https://github.com/rust-av/avp)
-        * [Opus](https://github.com/lu-zero/opus), FLAC
+        * [Opus](https://github.com/lu-zero/opus) (it would be cool to get this working for rust-av), FLAC
         * [AV1](https://github.com/rust-av/dav1d-rs), [VP8/VP9](https://github.com/rust-av/vpx-rs)
       * [Transcoding](https://github.com/rust-av/ave)
         * [rav1e](https://github.com/xiph/rav1e)
