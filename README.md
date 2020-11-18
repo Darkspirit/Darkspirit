@@ -2,7 +2,7 @@
 
 Please support the following projects. It would be great to have such a future:
 * [Redox OS](https://github.com/redox-os)
-  * [relibc](https://github.com/redox-os/relibc) C library written in Rust
+  * [relibc](https://github.com/redox-os/relibc) C standard library written in Rust
   * [reqwest](https://github.com/seanmonstar/reqwest) instead of curl
   * [Servo](https://github.com/servo/servo) web browser
     * [WebRender](https://github.com/servo/webrender)
