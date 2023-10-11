@@ -7,7 +7,7 @@ Please support the following projects. It would be great to have such a future:
   * [Servo](https://github.com/servo/servo) web browser
     * [WebRender](https://github.com/servo/webrender)
     * [Pathfinder](https://github.com/servo/pathfinder) for Canvas, Font, SVG
-    * [Rustls](https://github.com/ctz/rustls) (hopefully as TLS backend at some time)
+    * [Rustls](https://github.com/ctz/rustls)
       * [ring](https://github.com/briansmith/ring)
       * [WebPKI](https://github.com/briansmith/webpki)
     * [rust-av](https://github.com/rust-av) (hopefully as [media backend](https://github.com/servo/media/tree/master/backends) sometime in the future)
