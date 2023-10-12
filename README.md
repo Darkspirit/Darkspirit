@@ -19,6 +19,7 @@ Please support the following projects. It would be great to have such a future:
         * [rav1e](https://github.com/xiph/rav1e)
     * [boa](https://github.com/boa-dev/boa) (hopefully as safe JS interpreter in the far future)
   * [Trust-DNS](https://github.com/bluejekyll/trust-dns)
+  * [Stalwart mail server](https://github.com/stalwartlabs/mail-server)
   * [warp](https://github.com/seanmonstar/warp) web server framework
     * [Yew](https://github.com/yewstack/yew) web app framework
   
