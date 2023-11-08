@@ -22,7 +22,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
   * [Stalwart mail server](https://github.com/stalwartlabs/mail-server)
   * [warp](https://github.com/seanmonstar/warp) web server framework
     * [Yew](https://github.com/yewstack/yew) web app framework
-* Please be green on [hardenize.com](https://harenize.com) and use IPv6, TLS 1.3, ECDSA DNSSEC, TLSA/DANE, CAA (`issue letsencrypt.org; validationmethods=dns-01`), DMARC (`p=reject`), SPF (`mx -all`), [HSTS](https://hstspreload.org/), [CSP](https://report-uri.com/home/generate).
+* Please be green on [hardenize.com](https://hardenize.com) and use IPv6, TLS 1.3, ECDSA DNSSEC, TLSA/DANE, CAA (`issue letsencrypt.org; validationmethods=dns-01`), DMARC (`p=reject`), SPF (`mx -all`), [HSTS](https://hstspreload.org/), [CSP](https://report-uri.com/home/generate).
 <!--
 **Darkspirit/Darkspirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
