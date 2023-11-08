@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Please support the following projects. It would be great to have such a future:
+Please support the following [memory safe](https://www.memorysafety.org/docs/memory-safety/) Rust projects. It would be great to have such a future:
 * [Redox OS](https://github.com/redox-os)
   * [relibc](https://github.com/redox-os/relibc) C standard library written in Rust
   * [reqwest](https://github.com/seanmonstar/reqwest) instead of curl
@@ -22,8 +22,7 @@ Please support the following projects. It would be great to have such a future:
   * [Stalwart mail server](https://github.com/stalwartlabs/mail-server)
   * [warp](https://github.com/seanmonstar/warp) web server framework
     * [Yew](https://github.com/yewstack/yew) web app framework
-  
-
+* Please be green on [hardenize.com](https://harenize.com) and use IPv6, TLS 1.3, ECDSA DNSSEC, TLSA/DANE, CAA (`issue letsencrypt.org; validationmethods=dns-01`), DMARC (`p=reject`), SPF (`mx -all`), [HSTS](https://hstspreload.org/), [CSP](https://report-uri.com/home/generate).
 <!--
 **Darkspirit/Darkspirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
