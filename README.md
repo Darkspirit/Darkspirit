@@ -14,11 +14,11 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * [mkv/webm](https://github.com/rust-av/matroska), mp4
       * [Playback](https://github.com/rust-av/avp)
         * [Opus](https://github.com/lu-zero/opus), FLAC
-        * [AV1](https://github.com/rust-av/dav1d-rs), [VP8/VP9](https://github.com/rust-av/vpx-rs)
+        * [AV1](https://github.com/rust-av/dav1d-rs) (soon [rav1d](https://github.com/memorysafety/rav1d)), [VP8/VP9](https://github.com/rust-av/vpx-rs)
       * [Transcoding](https://github.com/rust-av/ave)
         * [rav1e](https://github.com/xiph/rav1e)
     * [boa](https://github.com/boa-dev/boa) (hopefully as safe JS interpreter in the far future)
-  * [Trust-DNS](https://github.com/bluejekyll/trust-dns)
+  * [Hickory DNS](https://github.com/hickory-dns/hickory-dns) (former name was [Trust-DNS](https://github.com/bluejekyll/trust-dns))
   * [Stalwart mail server](https://github.com/stalwartlabs/mail-server)
   * [warp](https://github.com/seanmonstar/warp) web server framework
     * [Yew](https://github.com/yewstack/yew) web app framework
