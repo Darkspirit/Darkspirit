@@ -8,8 +8,8 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * [WebRender](https://github.com/servo/webrender)
     * [Pathfinder](https://github.com/servo/pathfinder) for Canvas, Font, SVG
     * [Rustls](https://github.com/ctz/rustls)
-      * [ring](https://github.com/briansmith/ring)
-      * [WebPKI](https://github.com/briansmith/webpki)
+      * [graviola](https://github.com/ctz/graviola) / [ring](https://github.com/briansmith/ring)
+      * [Rustls-WebPKI](https://github.com/rustls/webpki) / [WebPKI](https://github.com/briansmith/webpki)
     * [rust-av](https://github.com/rust-av) (hopefully as [media backend](https://github.com/servo/media/tree/master/backends) sometime in the future)
       * [mkv/webm](https://github.com/rust-av/matroska), mp4
       * [Playback](https://github.com/rust-av/avp)
