@@ -9,8 +9,8 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * [Pathfinder](https://github.com/servo/pathfinder) for Canvas, Font, SVG
     * [Rustls](https://github.com/ctz/rustls)
       * [graviola](https://github.com/ctz/graviola) for x86_64 + arm64
-        * [ring](https://github.com/briansmith/ring) for the rest (riscv64, wasm32, loongarch64, powerpc64, s390x, mips, x86, arm32)
-      * [Rustls-WebPKI](https://github.com/rustls/webpki) / [WebPKI](https://github.com/briansmith/webpki)
+      * [aws-lc-rs](https://github.com/aws/aws-lc-rs) or [ring](https://github.com/briansmith/ring) for the rest (riscv64, wasm32, loongarch64, powerpc64, s390x, mips, x86, arm32)
+      * [Rustls-WebPKI](https://github.com/rustls/webpki) (based on [WebPKI](https://github.com/briansmith/webpki))
     * [rust-av](https://github.com/rust-av) (hopefully as [media backend](https://github.com/servo/media/tree/master/backends) sometime in the future)
       * [mkv/webm](https://github.com/rust-av/matroska), mp4
       * [Playback](https://github.com/rust-av/avp)
