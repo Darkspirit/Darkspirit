@@ -20,7 +20,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
         * [rav1e](https://github.com/xiph/rav1e)
     * [boa](https://github.com/boa-dev/boa) (hopefully as safe JS interpreter in the far future)
   * [Hickory DNS](https://github.com/hickory-dns/hickory-dns) (former name was [Trust-DNS](https://github.com/bluejekyll/trust-dns))
-  * [Stalwart mail server](https://github.com/stalwartlabs/mail-server)
+  * [Stalwart server](https://github.com/stalwartlabs/mail-server): mail (JMAP,IMAP,SMTP,DKIM,DMARC,etc), WebDAV (contacts/calendars/files), ACME client
   * [warp](https://github.com/seanmonstar/warp) / [axum](https://github.com/tokio-rs/axum) web server framework
     * [Yew](https://github.com/yewstack/yew) web app framework
 * Please be green on [hardenize.com](https://hardenize.com) and use IPv6 (against IPv4 fragmentation attacks), [RPKI](https://nlnetlabs.nl/projects/rpki/routinator/) for BGP, [ECDSA DNSSEC](https://www.cloudflare.com/dns/dnssec/ecdsa-and-dnssec/), TLSA/DANE, TLS 1.3, CAA (`issue letsencrypt.org; validationmethods=dns-01`), DMARC (`p=reject`), SPF (`mx -all`), HSTS [HTTP header + preload](https://hstspreload.org/) + HSTS via HTTPS DNS RR (`HTTPS 1 . alpn=h2`), [CSP](https://report-uri.com/home/generate), [XHTML5](https://blog.whatwg.org/xhtml5-in-a-nutshell).
