@@ -39,7 +39,8 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
 * Organic hardware health security (in progress)
   * Fat
     * Fat -> liver -> ketone bodies as energy
-    * If too little kcal/day: body fat becomes energy if insulin level is low (=in case you eat a bit carbohydrates or sugar, way less fat becomes energy, even more muscle mass is consumed and hunger is higher)
+    * If too little kcal/day: body fat becomes energy if insulin level is low
+      * (=in case you eat a bit carbohydrates or sugar, way less fat becomes energy, even more muscle mass is consumed and hunger is higher)
     * If too much kcal/day (from sugar, carbohydrates, protein or fat): fat becomes body fat if you eat more kcal than needed
       * resting metabolic rate: idle condition = 1 kcal per hour per kg body weight = e.g. 65kg * 24kcal = 1560kcal
       * basal metabolic rate = Harris–Benedict equation:
