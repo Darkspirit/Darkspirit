@@ -105,6 +105,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * Trace elements
         * Chromium
         * Iodine
+        * Molybdenum
         * Selenium
       * Lutein for eyes
     * [[link]](https://www.rossmann.de/de/gesundheit-zirkulin-leber-vital-hochdosiert/p/4036581253388)
