@@ -39,6 +39,14 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
 * Organic hardware health security (in progress)
   * Fat
     * Fat -> liver -> ketone bodies as energy
+    * If too little kcal/day: body fat becomes energy if insuline level is low
+    * If too much kcal/day (from sugar, carbohydrates, protein or fat): fat becomes body fat if you eat more kcal than needed
+      * resting metabolic rate: idle condition = 1 kcal per hour per kg body weight = e.g. 65kg * 24kcal = 1560kcal
+      * basal metabolic rate = Harris–Benedict equation:
+        * men: 66,5 + (13,75 * weight in kg) + (5,003 * height in cm) - (6,75 * age)
+          * e.g. 66,5 + (13,75 * 65 kg) + (5,003 * 175 cm) - (6,75 * 30 years) = 1633 kcal per day
+        * women: 655,1 + (9,563 * weight in kg) + (1,850 * height in cm) - (4,676 * age)
+          * e.g. 655,1 + (9,563 * 65 kg) + (1,850 * 175 cm) - (4,676 * 30 years) = 1460 kcal per day
     * saturated fatty acids
       * pro-inflammatory
       * rather solid at room temperature
@@ -70,14 +78,14 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
           * If too much: pro-inflammatory
   * Protein
     * Amino acids
-    * If too much -> becomes sugar -> insuline goes up -> sugar becomes body fat
+    * If too much -> becomes sugar -> insuline goes up -> sugar becomes fat
     * If too little -> muscles are consumed
   * Carbohydrates
     * Indigestible carbohydrates (called fiber)
     * Digestible carbohydrates (the actual Carbohydrates)
-      * Carbohydrates become sugar -> insuline goes up -> sugar becomes body fat
+      * Carbohydrates become sugar -> insuline goes up -> sugar becomes fat
   * Sugar
-    * Sugar -> insuline goes up -> sugar becomes body fat
+    * Sugar -> insuline goes up -> sugar becomes fat
   * Minerals
     * Salt
       * rises blood pressure: vascular damage. risk of heart attacks and other cardiovascular diseases
