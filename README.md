@@ -37,7 +37,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
 ---
 
 * Organic hardware health security (in progress)
-  * Fat
+  * Fat (maximum [30 to 35%](https://www.dge.de/gesunde-ernaehrung/faq/fettleitline/#c3311) of daily kcal consumption, e.g. 0,35*1633=571.55 kcal)
     * Fat -> liver -> ketone bodies as energy
     * If too little kcal/day: body fat becomes energy if insulin level is low
       * (=in case you eat a bit carbohydrates or sugar, way less fat becomes energy, even more muscle mass is consumed and hunger is higher)
