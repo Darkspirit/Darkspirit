@@ -58,12 +58,12 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
             * Colza/Rape oil for frying (but also contains Omega-6)
           * EPA
             * for brain, eyes, heart, skin
-            * EPA+DHA from Schizochytrium microalgae
+            * EPA+DHA from Schizochytrium microalgae [[1]](https://www.rossmann.de/de/gesundheit-doppelherz-omega-3-1000-vegan-kapseln/p/4009932132786) [[2]](https://www.rossmann.de/de/gesundheit-altapharma-omega-3-algenoel/p/4305615808970)
               * alternative: sardines
               * bad alternative, as large fish contain mercury: tuna
           * DHA
             * for brain, eyes, heart, skin
-            * EPA+DHA from Schizochytrium microalgae
+            * EPA+DHA from Schizochytrium microalgae [[1]](https://www.rossmann.de/de/gesundheit-doppelherz-omega-3-1000-vegan-kapseln/p/4009932132786) [[2]](https://www.rossmann.de/de/gesundheit-altapharma-omega-3-algenoel/p/4305615808970)
               * alternative: sardines
               * bad alternative, as large fish contain mercury: tuna
         * Omega 6
