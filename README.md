@@ -36,11 +36,14 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
 
 ---
 
-* Organic hardware health overview (in progress)
+* Organic hardware health security (in progress)
   * Fat
     * Fat -> liver -> ketone bodies as energy
-    * saturated fatty acids (land animal fat)
+    * saturated fatty acids
       * pro-inflammatory
+      * rather solid at room temperature
+      * land animal fat
+      * 80-90% of coconut oil (vegetarian butter, cheese)
     * unsaturated fatty acids
       * monounsaturated fatty acids
         * Omega-9
