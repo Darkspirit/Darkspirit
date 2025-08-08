@@ -59,7 +59,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
           * oleic acid
             * olives
       * polyunsaturated fatty acids
-        * Omega 3
+        * Omega-3
           * anti-inflammatory
           * ALA
             * Linseed/Flaxseed oil for cold cooking (Must not be used for frying, otherwise harmful substances can form.)
@@ -68,14 +68,18 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
             * for brain, eyes, heart, skin
             * EPA+DHA from Schizochytrium microalgae [[1]](https://www.rossmann.de/de/gesundheit-doppelherz-omega-3-1000-vegan-kapseln/p/4009932132786) [[2]](https://www.rossmann.de/de/gesundheit-altapharma-omega-3-algenoel/p/4305615808970)
               * alternatives:
-                * coastal saltwater sardines (thin bones that are often eaten)
-                * coastal saltwater sprats (like sardines but with additional belly bones and they are often eaten)
-                * coastal saltwater mackerel (bigger bones that are not eaten)
-                * coastal+offshore saltwater atlantic herring (bigger bones that are not eaten)
-                * freshwater trout (milder taste, moderate Omega3)
-                * freshwater chub (less omega3)
-              * bad alternatives, as large fish contain more toxic methylmercury: saltwater tuna, wild saltwater salmon
-        * Omega 6
+                * coastal sardines (thin bones that are often eaten)
+                * coastal sprats (like sardines but with additional belly bones and they are often eaten)
+                * coastal mackerel (bigger bones that are not eaten)
+                * coastal+offshore atlantic herring (bigger bones that are not eaten)
+                * freshwater aquaculture(!) eel (moderate Omega-3, high fat content)
+                * freshwater trout (moderate Omega-3, milder taste)
+                * freshwater chub (less Omega-3)
+              * bad alternatives:
+                * large fish (contain high toxic methylmercury): tuna, wild salmon
+                * critically endangered + more toxic methylmercury: wild(!) freshwater eel (moderate Omega-3, high fat content)
+
+        * Omega-6
           * If too much: pro-inflammatory
   * Protein
     * Amino acids
