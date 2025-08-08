@@ -68,16 +68,19 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
             * for brain, eyes, heart, skin
             * EPA+DHA from Schizochytrium microalgae [[1]](https://www.rossmann.de/de/gesundheit-doppelherz-omega-3-1000-vegan-kapseln/p/4009932132786) [[2]](https://www.rossmann.de/de/gesundheit-altapharma-omega-3-algenoel/p/4305615808970)
               * alternatives:
-                * coastal sardines (thin bones that are often eaten)
-                * coastal sprats (like sardines but with additional belly bones and they are often eaten)
-                * coastal+offshore atlantic herring (bigger bones that are not eaten)
-                * coastal mackerel (bigger bones that are not eaten)
-                * saltwater aquaculture/floating cage culute(!) salmon (mild taste, needs fish flour from sardines/sprats/etc as food for high Omega-3, medium bones that are not eaten)
-                * freshwater aquaculture(!) eel (moderate Omega-3, high fat content)
-                * freshwater trout (moderate Omega-3, milder taste)
-                * freshwater chub (less Omega-3)
+                | fish | EPA/100g | DHA/100g |  |
+                |--------|--------------|--------------|---------------|
+                | Coastal sardines | 0,5–1,0 g | 0,7–1,2 g | High Omega-3, thin bones (often eaten) |
+                | Coastal sprats | 0,6–1,1 g | 0,8–1,3 g | High Omega-3, thin + belly bones (often eaten) |
+                | Coastal+offshore Atlantic herring | 0,7–1,0 g | 0,9–1,2 g | High Omega-3, bigger bones (need preparation) |
+                | Coastal mackerel | 0,6–1,2 g | 0,9–1,5 g | High Omega-3, bigger bones (need preparation), sustainable if certified |
+                | Saltwater net cage aquaculture salmon | 0,4–0,8 g | 0,8–1,4 g | High Omega-3 (needs fish flour from sardines/sprats/etc as food for high Omega-3), mild taste, medium bones, sustainable if certified, possible contaminants |
+                | Freshwater aquaculture eel | 0,2–0,4 g | 0,3–0,6 g | Moderate Omega-3, high fat content, possible contaminants |
+                | Alaska pollack (fish sticks)| 0,1–0,2 g | 0,2–0,3 g | Moderate Omega-3, mild taste, small bones (easily removed), sustainable if certified |
+                | Freshwater trout | 0,1–0,3 g | 0,3–0,7 g | Moderate Omega-3, milder taste |
+                | Freshwater chub | 0,1–0,2 g | 0,2–0,3 g | Lower Omega-3, less common |
               * bad alternatives:
-                * large fish (contain high toxic methylmercury): tuna, wild salmon
+                * large fish (high toxic methylmercury): Tuna (0,4–0,8 g DHA/100g, 0,1–0,3 g EPA/100g), Wild salmon
                 * critically endangered + more toxic methylmercury: wild(!) freshwater eel (moderate Omega-3, high fat content)
 
         * Omega-6
