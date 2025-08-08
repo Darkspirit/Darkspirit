@@ -64,16 +64,17 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
           * ALA
             * Linseed/Flaxseed oil for cold cooking (Must not be used for frying, otherwise harmful substances can form.)
             * Colza/Rape oil for frying (but also contains Omega-6)
-          * EPA
+          * DHA + EPA
             * for brain, eyes, heart, skin
             * EPA+DHA from Schizochytrium microalgae [[1]](https://www.rossmann.de/de/gesundheit-doppelherz-omega-3-1000-vegan-kapseln/p/4009932132786) [[2]](https://www.rossmann.de/de/gesundheit-altapharma-omega-3-algenoel/p/4305615808970)
-              * alternative: sardines
-              * bad alternative, as large fish contain mercury: tuna
-          * DHA
-            * for brain, eyes, heart, skin
-            * EPA+DHA from Schizochytrium microalgae [[1]](https://www.rossmann.de/de/gesundheit-doppelherz-omega-3-1000-vegan-kapseln/p/4009932132786) [[2]](https://www.rossmann.de/de/gesundheit-altapharma-omega-3-algenoel/p/4305615808970)
-              * alternative: sardines
-              * bad alternative, as large fish contain mercury: tuna
+              * alternatives:
+                * coastal saltwater sardines (thin bones that are often eaten)
+                * coastal saltwater sprats (like sardines but with additional belly bones and they are often eaten)
+                * coastal saltwater mackerel (bigger bones that are not eaten)
+                * coastal+offshore saltwater atlantic herring (bigger bones that are not eaten)
+                * freshwater trout (milder taste, moderate Omega3)
+                * freshwater chub (less omega3)
+              * bad alternatives, as large fish contain more toxic methylmercury: saltwater tuna, wild saltwater salmon
         * Omega 6
           * If too much: pro-inflammatory
   * Protein
