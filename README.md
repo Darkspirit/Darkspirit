@@ -63,8 +63,8 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
         * Omega-6
           * If too much: pro-inflammatory
             * 10:1 Omega-6 to Omega-3 ratio is pro-inflammatory and frequent in the West
-              * recommended maximum is 5:1, ideal is 1:1 which seems nearly impossible
-              * The same enzyme processes Omega 6 and 3: If all enzymes are "occupied" with omega-6, the body cannot absorb omega-3.
+            * recommended maximum is 5:1, ideal is 1:1 which seems nearly impossible
+            * The same enzyme processes Omega 6 and 3: If all enzymes are "occupied" with omega-6, the body cannot absorb omega-3.
           * sunflower oil
         * Omega-3
           * anti-inflammatory
