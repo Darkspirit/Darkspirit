@@ -53,13 +53,13 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * rather solid at room temperature
       * land animal fat
       * 80-90% of coconut oil (vegetarian butter, cheese)
-    * unsaturated fatty acids (maximum [10%](https://www.dge.de/gesunde-ernaehrung/faq/fettleitline/#c3312) of daily kcal consumption, e.g. 0,1*1633=163.3 kcal)
+    * unsaturated fatty acids
       * monounsaturated fatty acids
         * Omega-9
           * anti-inflammatory
           * oleic acid
             * olives
-      * polyunsaturated fatty acids
+      * polyunsaturated fatty acids (maximum [10%](https://www.dge.de/gesunde-ernaehrung/faq/fettleitline/#c3312) of daily kcal consumption, e.g. 0,1*1633=163.3 kcal)
         * Omega-6
           * If too much: pro-inflammatory
             * 10:1 Omega-6 to Omega-3 ratio is pro-inflammatory and frequent in the West
