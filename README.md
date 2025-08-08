@@ -111,10 +111,10 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
         * Vitamin B7 (Biotin)
         * Vitamin B9=B11 (Folic acid)
         * Vitamin B12 (Cobalamin)
-        * Vitamin C
-        * Vitamin D3
+        * Vitamin C (Ascorbic acid)
+        * Vitamin D3 (Cholecalciferol)
         * Vitamin E
-        * Vitamin K1
+        * Vitamin K1 (Phytomenadione)
       * Minerals
         * Calcium
         * Phosphorous
