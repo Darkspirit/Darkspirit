@@ -107,10 +107,10 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
         * Iodine
         * Selenium
       * Lutein for eyes
-  * [[link]](https://www.rossmann.de/de/gesundheit-zirkulin-leber-vital-hochdosiert/p/4036581253388)
-    * Silymarin (for liver: anti-inflammatory antioxidant)
-    * Vitamin B4 (Choline) for liver, brain+nerve system
-    * Zinc
+    * [[link]](https://www.rossmann.de/de/gesundheit-zirkulin-leber-vital-hochdosiert/p/4036581253388)
+      * Silymarin (for liver: anti-inflammatory antioxidant)
+      * Vitamin B4 (Choline) for liver, brain+nerve system
+      * Zinc
    
 
 <!--
