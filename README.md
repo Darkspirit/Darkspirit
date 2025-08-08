@@ -58,12 +58,12 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
             * Colza/Rape oil for frying (but also contains Omega-6)
           * EPA
             * for brain, eyes, heart, skin
-            * capsules with EPA+DHA from Schizochytrium microalgae
+            * EPA+DHA from Schizochytrium microalgae
               * alternative: sardines
               * bad alternative, as large fish contain mercury: tuna
           * DHA
             * for brain, eyes, heart, skin
-            * capsules with EPA+DHA from Schizochytrium microalgae
+            * EPA+DHA from Schizochytrium microalgae
               * alternative: sardines
               * bad alternative, as large fish contain mercury: tuna
         * Omega 6
