@@ -74,11 +74,11 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
           * EPA+DHA from Schizochytrium microalgae [[1]](https://www.rossmann.de/de/gesundheit-doppelherz-omega-3-1000-vegan-kapseln/p/4009932132786) [[2]](https://www.rossmann.de/de/gesundheit-altapharma-omega-3-algenoel/p/4305615808970)
             * for brain, eyes, heart, skin
             * alternatives:
-              | fish | g EPA /100g | g DHA /100g | g ALA /100g | g Omega-6 /100g | 6/3 ratio |  |
+              | fish | g EPA/<br/>100g | g DHA/<br/>100g | g ALA/<br/>100g | g Ome<br/>ga-6/<br/>100g | 6/3 ratio |  |
               |------|----------|----------|----------|--------------|---|---|
               | Coastal<br/>sardines | 0,5–1,0 | 0,7–1,2 | 0,1–0,3 | 0,1–0,3 | 0,1:1 ✅ | High Omega-3, thin bones (often eaten) |
               | Coastal<br/>sprats | 0,6–1,1 | 0,8–1,3 | 0,1–0,3 | 0,1–0,3 | 0,1:1 ✅ | High Omega-3, thin + belly bones (often eaten) |
-              | Coastal+offshore<br/>Atlantic herring | 0,7–1,0 | 0,9–1,2 | 0,2–0,4 | 0,2–0,4 | 0,1:1 ✅ | High Omega-3, bigger bones (need preparation) |
+              | Coastal+ offshore<br/>Atlantic herring | 0,7–1,0 | 0,9–1,2 | 0,2–0,4 | 0,2–0,4 | 0,1:1 ✅ | High Omega-3, bigger bones (need preparation) |
               | Coastal<br/>mackerel | 0,6–1,2 | 0,9–1,5 | 0,1–0,3 | 0,2–0,5 | 0,2:1 ✅ | High Omega-3, bigger bones (need preparation), sustainable if certified |
               | Saltwater<br/>net cage aquaculture<br/>salmon | 0,4–0,8 | 0,8–1,4 | 0,1–0,2 | 0,3–0,6 | 0,2:1 ✅ | High Omega-3 (needs fish flour from sardines/sprats/etc as food for high Omega-3), mild taste, medium bones (easily removed), sustainable if certified, possible contaminants |
               | Freshwater aquaculture<br/>eel | 0,2–0,4 | 0,3–0,6 | 0,1–0,2 | 0,4–0,8 | 0,7:1 ❌ | Moderate Omega-3, high fat content, possible contaminants |
