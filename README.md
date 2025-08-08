@@ -81,6 +81,37 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
   * Minerals
     * Salt
       * rises blood pressure: vascular damage. risk of heart attacks and other cardiovascular diseases
+  * Vitamins and Minerals
+    * [[link]](https://www.rossmann.de/de/gesundheit-altapharma-a-z-depot-ab-50/p/4305615887050)
+      * Vitamins
+        * Vitamin A
+        * Vitamin B1 (Thiamin)
+        * Vitamin B2 (Riboflavin)
+        * Vitamin B3 (Niacin)
+        * Vitamin B5 (Pantothenic acid)
+        * Vitamin B6 (Pyridoxine)
+        * Vitamin B7 (Biotin)
+        * Vitamin B9=B11 (Folic acid)
+        * Vitamin B12 (Cobalamin)
+        * Vitamin C
+        * Vitamin D3
+        * Vitamin E
+        * Vitamin K1
+      * Minerals
+        * Calcium
+        * Phosphorous
+        * Magnesium for muscles, brain+nerve system, liver, kidneys, blood pressure, heart, bones+teeth
+        * Zinc for eyes, brain, skin, bones, hair, muscles
+      * Trace elements
+        * Chromium
+        * Iodine
+        * Selenium
+      * Lutein for eyes
+  * [[link]](https://www.rossmann.de/de/gesundheit-zirkulin-leber-vital-hochdosiert/p/4036581253388)
+    * Silymarin (for liver: anti-inflammatory antioxidant)
+    * Vitamin B4 (Choline) for liver, brain+nerve system
+    * Zinc
+   
 
 <!--
 **Darkspirit/Darkspirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
