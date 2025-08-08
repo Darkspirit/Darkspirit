@@ -74,7 +74,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
           * EPA+DHA from Schizochytrium microalgae [[1]](https://www.rossmann.de/de/gesundheit-doppelherz-omega-3-1000-vegan-kapseln/p/4009932132786) [[2]](https://www.rossmann.de/de/gesundheit-altapharma-omega-3-algenoel/p/4305615808970)
             * for brain, eyes, heart, skin
             * alternatives:
-              | fish | g EPA /100g | g DHA /100g | g ALA /100g | Omega-6 /100g | 6/3 ratio |  |
+              | fish | g EPA /100g | g DHA /100g | g ALA /100g | g Omega-6 /100g | 6/3 ratio |  |
               |------|----------|----------|----------|--------------|---|---|
               | Coastal sardines | 0,5–1,0 | 0,7–1,2 | 0,1–0,3 | 0,1–0,3 | 0,1:1 ✅ | High Omega-3, thin bones (often eaten) |
               | Coastal sprats | 0,6–1,1 | 0,8–1,3 | 0,1–0,3 | 0,1–0,3 | 0,1:1 ✅ | High Omega-3, thin + belly bones (often eaten) |
