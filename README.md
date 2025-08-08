@@ -70,8 +70,8 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
               * alternatives:
                 * coastal sardines (thin bones that are often eaten)
                 * coastal sprats (like sardines but with additional belly bones and they are often eaten)
-                * coastal mackerel (bigger bones that are not eaten)
                 * coastal+offshore atlantic herring (bigger bones that are not eaten)
+                * coastal mackerel (bigger bones that are not eaten)
                 * freshwater aquaculture(!) eel (moderate Omega-3, high fat content)
                 * freshwater trout (moderate Omega-3, milder taste)
                 * freshwater chub (less Omega-3)
