@@ -33,6 +33,52 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * HSTS via HTTPS DNS RR (`HTTPS 1 . alpn=h2`)
 * Hardware
   * Against [Side-channel attacks](https://en.wikipedia.org/wiki/Side-channel_attack): Use CPUs that don't have [Simultaneous multithreading](https://en.wikipedia.org/wiki/Simultaneous_multithreading) (SMT = more than 1 thread per physical core / multiple virtual cores per physical core / [Intel Hyper-Threading](https://en.wikipedia.org/wiki/Hyper-threading))
+
+---
+
+* Organic hardware health overview (in progress)
+  * Fat
+    * Fat -> liver -> ketone bodies as energy
+    * saturated fatty acids (land animal fat)
+      * pro-inflammatory
+    * unsaturated fatty acids
+      * monounsaturated fatty acids
+        * Omega-9
+          * anti-inflammatory
+          * oleic acid
+            * olives
+      * polyunsaturated fatty acids
+        * Omega 3
+          * anti-inflammatory
+          * ALA
+            * Linseed/Flaxseed oil for cold cooking (Must not be used for frying, otherwise harmful substances can form.)
+            * Colza/Rape oil for frying (but also contains Omega-6)
+          * EPA
+            * for brain, eyes, heart, skin
+            * capsules with EPA+DHA from Schizochytrium microalgae
+              * alternative: sardines
+              * bad alternative, as large fish contain mercury: tuna
+          * DHA
+            * for brain, eyes, heart, skin
+            * capsules with EPA+DHA from Schizochytrium microalgae
+              * alternative: sardines
+              * bad alternative, as large fish contain mercury: tuna
+        * Omega 6
+          * If too much: pro-inflammatory
+  * Protein
+    * Amino acids
+    * If too much -> becomes sugar -> insuline goes up -> sugar becomes body fat
+    * If too little -> muscles are consumed
+  * Carbohydrates
+    * Indigestible carbohydrates (called fiber)
+    * Digestible carbohydrates (the actual Carbohydrates)
+      * Carbohydrates become sugar -> insuline goes up -> sugar becomes body fat
+  * Sugar
+    * Sugar -> insuline goes up -> sugar becomes body fat
+  * Minerals
+    * Salt
+      * rises blood pressure: vascular damage. risk of heart attacks and other cardiovascular diseases
+
 <!--
 **Darkspirit/Darkspirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
