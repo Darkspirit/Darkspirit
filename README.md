@@ -58,7 +58,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
         * Omega-9
           * anti-inflammatory
           * oleic acid
-            * olives / olive oil (prefer for cold cooking. safe until smoke point of [130°C-210°C](https://de.wikipedia.org/wiki/Rauchpunkt), you might reach it and harmful substances form.)
+            * olives / olive oil (rather for cold cooking. safe until smoke point of [130°C-210°C](https://de.wikipedia.org/wiki/Rauchpunkt), you might reach it and harmful substances form.)
       * polyunsaturated fatty acids (maximum [10%](https://www.dge.de/gesunde-ernaehrung/faq/fettleitline/#c3312) of daily kcal consumption, e.g. 0,1*1633=163.3 kcal)
         * Omega-6
           * If too much: pro-inflammatory (but too less Omega-6 would be unhealthy as well)
