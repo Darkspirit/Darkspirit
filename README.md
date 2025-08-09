@@ -74,7 +74,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
             * Colza/Rape oil for frying (contains more Omega-6 than Omega-3 ALA)
           * EPA+DHA from Schizochytrium microalgae [[1]](https://www.rossmann.de/de/gesundheit-doppelherz-omega-3-1000-vegan-kapseln/p/4009932132786) [[2]](https://www.rossmann.de/de/gesundheit-altapharma-omega-3-algenoel/p/4305615808970)
             * for brain, eyes, heart, skin
-            * 0,25–0,5g/day recommended. up to 5g/day harmless according to [EFSA](https://www.efsa.europa.eu/de/press/news/120727)
+            * 0,25–0,5g/day recommended. up to 5g/day definitely harmless according to [EFSA](https://www.efsa.europa.eu/de/press/news/120727) who did not define an upper limit
             * alternatives:
               | fish | g EPA/<br/>100g | g DHA/<br/>100g | g ALA/<br/>100g | g Ome<br/>ga-6/<br/>100g | 6/3 ratio |  |
               |------|----------|----------|----------|--------------|---|---|
