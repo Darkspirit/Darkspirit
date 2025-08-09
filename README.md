@@ -65,12 +65,13 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
             * 10:1 Omega-6 to Omega-3 ratio is pro-inflammatory and frequent in the West
             * recommended maximum is 5:1, ideal is 1:1 which seems nearly impossible.
             * The same enzyme processes Omega 6 and 3: If all enzymes are "occupied" with omega-6, the body cannot absorb omega-3.
-          * sunflower oil (use Linseed/Flaxseed oil for cold cooking and Colza/Rape oil for frying instead!)
+          * sunflower oil
+          * Colza/Rape oil for frying (also contains some Omega-3 ALA)
         * Omega-3
           * anti-inflammatory
           * ALA
             * Linseed/Flaxseed oil for cold cooking (Must not be used for frying, otherwise harmful substances can form.)
-            * Colza/Rape oil for frying (but also contains Omega-6)
+            * Colza/Rape oil for frying (contains more Omega-6 than Omega-3 ALA)
           * EPA+DHA from Schizochytrium microalgae [[1]](https://www.rossmann.de/de/gesundheit-doppelherz-omega-3-1000-vegan-kapseln/p/4009932132786) [[2]](https://www.rossmann.de/de/gesundheit-altapharma-omega-3-algenoel/p/4305615808970)
             * for brain, eyes, heart, skin
             * 0,25–0,5g/day recommended. up to 5g/day harmless according to [EFSA](https://www.efsa.europa.eu/de/press/news/120727)
