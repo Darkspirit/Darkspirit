@@ -83,9 +83,9 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
               | Coastal+ offshore<br/>Atlantic herring | 0,7–1,0 | 0,9–1,2 | 0,2–0,4 | 0,2–0,4 | 0,1:1 ✅ | High Omega-3, bigger bones (need preparation) |
               | Coastal<br/>mackerel | 0,6–1,2 | 0,9–1,5 | 0,1–0,3 | 0,2–0,5 | 0,2:1 ✅ | High Omega-3, bigger bones (need preparation), sustainable if certified |
               | Saltwater<br/>net cage aquaculture<br/>salmon | 0,4–0,8 | 0,8–1,4 | 0,1–0,2 | 0,3–0,6 | 0,2:1 ✅ | High Omega-3 (needs fish flour from sardines/sprats/etc as food for high Omega-3), mild taste, medium bones (easily removed), sustainable if certified, possible contaminants |
-              | Freshwater aquaculture<br/>eel | 0,2–0,4 | 0,3–0,6 | 0,1–0,2 | 0,4–0,8 | 0,7:1 ❌ | Moderate Omega-3, high fat content, possible contaminants |
+              | Freshwater aquaculture<br/>eel | 0,2–0,4 | 0,3–0,6 | 0,1–0,2 | 0,4–0,8 | 0,7:1 ⚠️ | Moderate Omega-3, high fat content, possible contaminants |
               | Alaska pollack<br/>(fish sticks) | 0,1–0,2 | 0,2–0,3 | 0,05–0,1 | 0,05–0,1 | 0,2:1 ✅ | Moderate Omega-3, mild taste, small bones (easily removed), sustainable if certified |
-              | Freshwater<br/>trout | 0,1–0,3 | 0,3–0,7 | 0,1–0,2 | 0,2–0,4 | 0,4:1 ok | Moderate Omega-3, milder taste |
+              | Freshwater<br/>trout | 0,1–0,3 | 0,3–0,7 | 0,1–0,2 | 0,2–0,4 | 0,4:1 ☑️ | Moderate Omega-3, milder taste |
               | Freshwater<br/>chub | 0,1–0,2 | 0,2–0,3 | 0,05–0,1 | 0,05–0,1 | 0,2:1 ✅ | Lower Omega-3, less common |
             * bad alternatives:
               * large fish (high toxic methylmercury): Tuna (0,4–0,8g DHA/100g, 0,1–0,3g EPA/100g, 0,05–0,1g ALA, 0,05–0,1g Omega-6), Wild salmon
