@@ -103,6 +103,13 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
   * Minerals
     * Salt
       * rises blood pressure: vascular damage. risk of heart attacks and other cardiovascular diseases
+  * Alcohol
+    * There is [no risk-free](https://www.dge.de/presse/meldungen/2024/dge-positionspapier-zu-alkohol/) amount of consumption: Recommended is zero.
+    * Alcohol breakdown products from your liver destroy your DNA: mutation leads to cancer.
+    * Alcohol disinfects because it lets cells explode. Alcohol destroys upper layers in your mouth, lower layers need to grow to replace them.
+      * When you smoke (smoke contains more than 60 carcinogens that cause cancer) and consume alcohol, then your cancer risk is [100 times higher](https://youtu.be/Wmo7M9I4fGc?feature=shared&t=4904) compared to only smoking.
+    * [~13%](https://youtu.be/Wmo7M9I4fGc?feature=shared&t=4990) of breast cancer cases are caused by alcohol
+    * Pregnant women who drink alcohol [only for 1 day](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=5230s) can already make their child violent and disabled.
   * Vitamins and Minerals
     * [[link]](https://www.rossmann.de/de/gesundheit-altapharma-a-z-depot-ab-50/p/4305615887050)
       * Vitamins
