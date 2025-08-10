@@ -50,6 +50,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
           * e.g. 655,1 + (9,563 * 65 kg) + (1,850 * 175 cm) - (4,676 * 30 years) = 1460 kcal per day
     * saturated fatty acids (maximum [7 to 10%](https://www.dge.de/gesunde-ernaehrung/faq/fettleitline/#c3312) of daily kcal consumption, e.g. 0,07*1633=114.31 kcal)
       * pro-inflammatory
+        * inflammation causes cancer
       * rather solid at room temperature
       * land animal fat
       * 80-90% of coconut oil (vegetarian butter, cheese)
