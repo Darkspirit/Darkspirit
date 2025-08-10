@@ -141,7 +141,8 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * Silymarin (for liver: anti-inflammatory antioxidant)
       * Vitamin B4 (Choline) for liver, brain+nerve system
       * Zinc
-   
+  * Physical activity: [Any movement](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=6327s) that gets the circulation going, i.e. makes the heart beat a little faster, brings the immune system's T cells out of the garage (the lymph nodes and bone marrow) into the blood and lets them go on patrol which helps against cancer.
+
 
 <!--
 **Darkspirit/Darkspirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
