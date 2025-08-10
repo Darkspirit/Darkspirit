@@ -141,7 +141,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * Silymarin (for liver: anti-inflammatory antioxidant)
       * Vitamin B4 (Choline) for liver, brain+nerve system
       * Zinc
-  * Physical activity: [Any movement](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=6327s) that gets the circulation going, i.e. makes the heart beat a little faster, brings the immune system's T cells out of the garage (the lymph nodes and bone marrow) into the blood and lets them go on patrol which helps against cancer.
+  * Physical activity: [Any movement](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=6327s) that gets the circulation going for at least 10 minutes, i.e. makes the heart beat a little faster, brings the immune system's T cells out of the garage (the lymph nodes and bone marrow) into the blood and lets them go on patrol which helps against cancer.
   * Vaccination:
     * HPV [vaccination](https://www.aok.de/gp/verordnung/wirtschaftlichkeit/impfungen-niedersachsen/hpv) makes sense: HPV (women+men) infects [all mucosae](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=5828s) which can cause cancer.
       * mouth, throat (Michael Douglas), anal cancer are often caused by HPV.
