@@ -63,7 +63,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * polyunsaturated fatty acids (maximum [10%](https://www.dge.de/gesunde-ernaehrung/faq/fettleitline/#c3312) of daily kcal consumption, e.g. 0,1*1633=163.3 kcal)
         * Omega-6
           * If too much: pro-inflammatory (but too less Omega-6 would be unhealthy as well)
-            * 10:1 (even 50:1) Omega-6 to Omega-3 ratio is pro-inflammatory and frequent in the West
+            * 50:1 (even 10:1) Omega-6 to Omega-3 ratio is pro-inflammatory and frequent in the West
             * recommended maximum is 5:1, ideal would be 1:1.
             * The same enzyme processes Omega 6 and 3: If all enzymes are "occupied" with omega-6, the body cannot absorb omega-3.
           * sunflower oil (safe with distance below smoke point of [232-252°C](https://de.wikipedia.org/wiki/Rauchpunkt))
