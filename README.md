@@ -69,7 +69,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
           * sunflower oil (safe with distance below smoke point of [232-252°C](https://de.wikipedia.org/wiki/Rauchpunkt))
           * Colza/Rape oil for frying (also contains some Omega-3 ALA. safe with distance below smoke point of [190-230°C](https://de.wikipedia.org/wiki/Rauchpunkt))
         * Omega-3
-          * anti-inflammatory
+          * [anti-inflammatory](https://www.annualreviews.org/content/journals/10.1146/annurev-food-111317-095850)
           * ALA
             * Linseed/Flaxseed oil for cold cooking (safe with distance below smoke point of [~107°C](https://de.wikipedia.org/wiki/Rauchpunkt): Must not be used for frying, otherwise harmful substances form.)
             * Colza/Rape oil for frying (contains more Omega-6 than Omega-3 ALA. safe with distance below smoke point of [190-230°C](https://de.wikipedia.org/wiki/Rauchpunkt))
