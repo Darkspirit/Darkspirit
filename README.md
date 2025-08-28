@@ -168,7 +168,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
           * R290 heat pump (e.g. air/water, ground/water)
           * Natural refrigerants (R744, R290) don't cause PFAS (like car air conditioners) or hydrogen fluoride (home air-to-air air conditioners)
         * magnetic train, electric car
-        * PV, Wind, public/private accus, Vehicle-to-Grid, Dark Doldrum Biomass(poplar instead of corn[[1]](https://group.vattenfall.com/de/newsroom/news/2022/jan-grundmann-forschungsprojekt-biomethan--torfersatzstoff-aus-pappelholz) [[2]](https://biogas.fnr.de/service/presse/presse/aktuelle-nachricht/zwei-fliegen-mit-einer-klappe-pappelholz-fuer-biomethan-und-torfersatzstoffe), sewage sludge/gas) Biomethane pyrolysis electricity
+        * PV, Wind, public/private accus, Vehicle-to-Grid, Dark Doldrum Biomass(poplar instead of corn[[1]](https://group.vattenfall.com/de/newsroom/news/2022/jan-grundmann-forschungsprojekt-biomethan--torfersatzstoff-aus-pappelholz) [[2]](https://biogas.fnr.de/service/presse/presse/aktuelle-nachricht/zwei-fliegen-mit-einer-klappe-pappelholz-fuer-biomethan-und-torfersatzstoffe), sewage sludge/gas) Biomethane pyrolysis electricity (graphite -> graphene)
   * Vaccination:
     * HPV [vaccination](https://www.aok.de/gp/verordnung/wirtschaftlichkeit/impfungen-niedersachsen/hpv) makes sense: HPV (women+men) infects [all mucosae](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=5828s) which can cause cancer.
 
