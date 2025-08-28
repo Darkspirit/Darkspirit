@@ -111,8 +111,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * Phosphoric acid: Cola, Lemonades, iced teas
     * Citric acid: citrus fruits, sour gummy bears, candies and lollipops
     * Malic acid: apples
-    * Lactic acid: Lactic acid bacteria convert sugar from food into acids (mainly lactic acid).
-      * These are present in small numbers in the mouth anyway. Only when they come into contact with sugar, they cause damage.
+    * Lactic acid: When lactic acid bacteria that are anyway present in the mouth come into contact with sugar they reproduce and produce acids (mainly lactic acid).
   * Alcohol
     * There is [no risk-free](https://www.dge.de/presse/meldungen/2024/dge-positionspapier-zu-alkohol/) amount of consumption: Recommended is zero.
     * Alcohol breakdown products from your liver destroy your DNA: mutation leads to cancer.
