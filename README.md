@@ -104,6 +104,11 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
   * Minerals
     * Salt
       * rises blood pressure: vascular damage. risk of heart attacks and other cardiovascular diseases
+  * At and below a pH value of 5.5, tooth enamel begins to dissolve/demineralize.
+    * risk of tooth decay
+    * Don't consume it multiple times a day. Cover your teeth with saliva immediately after drinking/eating.
+    * Phosphoric acid: Cola, Lemonades, iced teas and children's teas
+    * Citric acid: sour gummy bears, candies and lollipops
   * Alcohol
     * There is [no risk-free](https://www.dge.de/presse/meldungen/2024/dge-positionspapier-zu-alkohol/) amount of consumption: Recommended is zero.
     * Alcohol breakdown products from your liver destroy your DNA: mutation leads to cancer.
