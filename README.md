@@ -101,7 +101,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * Carbohydrates become sugar -> insulin goes up -> sugar becomes fat
   * Sugar
     * Sugar -> insulin goes up -> sugar becomes fat
-    * Lactic acid bacteria + sugar = lactic acid = pH at/below 5.5 = tooth enamel demineralizes (teeth become slightly yellow because the shell irreversibly becomes thinner, opaque white spot on tooth surface) + caries risk (yellow/brown/black)
+    * ⚠️⚠️ Lactic acid bacteria + sugar = lactic acid = pH at/below 5.5 = tooth enamel demineralizes (teeth become slightly yellow because the shell irreversibly becomes thinner, opaque white spot on tooth surface) + caries risk (yellow/brown/black)
   * Minerals
     * Salt
       * rises blood pressure: vascular damage. risk of heart attacks and other cardiovascular diseases
@@ -147,7 +147,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * ⚠️⚠️ Phosphoric acid: Cola, Lemonades, iced teas
     * ⚠️⚠️ Citric acid: energy drinks (btw: mouthwash+energydrink=sulfur compounds that smell like rotten egg), sour gummy bears, candies and lollipops, citrus fruits
     * Malic acid: apples
-    * ⚠️Lactic acid: When lactic acid bacteria that are anyway present in the mouth in small numbers come into contact with sugar they reproduce and produce acids (mainly lactic acid).
+    * ⚠️⚠️Lactic acid: When lactic acid bacteria that are anyway present in the mouth in small numbers come into contact with sugar they reproduce and produce acids (mainly lactic acid).
   * Alcohol
     * There is [no risk-free](https://www.dge.de/presse/meldungen/2024/dge-positionspapier-zu-alkohol/) amount of consumption: Recommended is zero.
     * Alcohol breakdown products from your liver destroy your DNA: mutation leads to cancer.
