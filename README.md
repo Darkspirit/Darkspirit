@@ -101,12 +101,12 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * Carbohydrates become sugar -> insulin goes up -> sugar becomes fat
   * Sugar
     * Sugar -> insulin goes up -> sugar becomes fat
-    * Lactic acid bacteria + sugar = lactic acid = pH at/below 5.5 = tooth enamel demineralizes + caries risk
+    * Lactic acid bacteria + sugar = lactic acid = pH at/below 5.5 = tooth enamel demineralizes (slightly yellow) + caries risk (yellow/brown/black)
   * Minerals
     * Salt
       * rises blood pressure: vascular damage. risk of heart attacks and other cardiovascular diseases
-  * At and below a pH value of 5.5, tooth enamel begins to dissolve/demineralize.
-    * caries risk
+  * At and below a pH value of 5.5, tooth enamel begins to dissolve/demineralize (slightly yellow).
+    * caries risk (yellow/brown/black)
     * Don't consume it multiple times a day. Cover your teeth with saliva immediately after drinking/eating.
     * Phosphoric acid: Cola, Lemonades, iced teas
     * Citric acid: sour gummy bears, candies and lollipops
