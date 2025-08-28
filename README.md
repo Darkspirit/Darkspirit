@@ -168,7 +168,16 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
           * R290 heat pump (e.g. air/water, ground/water)
           * Natural refrigerants (R744, R290) don't cause PFAS (like car air conditioners) or hydrogen fluoride (home air-to-air air conditioners)
         * magnetic train, electric car
-        * PV, Wind, public/private accus, Vehicle-to-Grid, Dark Doldrum Biomass(poplar instead of corn[[1]](https://group.vattenfall.com/de/newsroom/news/2022/jan-grundmann-forschungsprojekt-biomethan--torfersatzstoff-aus-pappelholz) [[2]](https://biogas.fnr.de/service/presse/presse/aktuelle-nachricht/zwei-fliegen-mit-einer-klappe-pappelholz-fuer-biomethan-und-torfersatzstoffe), sewage sludge/gas) Biomethane pyrolysis electricity (graphite -> graphene)
+        * green energy
+          * [AgriPV](https://www.ise.fraunhofer.de/de/geschaeftsfelder/solarkraftwerke-und-integrierte-photovoltaik/integrierte-photovoltaik/agri-photovoltaik-agri-pv.html) benefits: evaporation protection + hail protection + reduced pesticide need
+            * Protein plants(peas etc: tasty Schnitzel)+catch crops
+            * Using current biofuel land for agri-PV could provide electric cars [11600% (116x)](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf#page=39) the driving range of biofuel.
+          * BiodiversityPV: pollinators,insects,birds [[1]](https://blog.rheinenergie.com/blog/weltbienentag-am-20-mai-es-blueht-und-summt-unter-den-solaranlagen/2258) [[2]](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/J-L/leitfaden-naturschutzfachliche-mindestkriterien-bei-pv-freiflaechenanlagen.html)
+            * Using current biofuel land for BiodiversityPV could provide electric cars 18900% (189x) the driving range of biofuel. (["Range is 190 times higher"](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf#page=39))
+          * Wind
+          * public/private accus
+          * Vehicle-to-Grid
+          * Dark Doldrum Biomass(poplar instead of corn[[1]](https://group.vattenfall.com/de/newsroom/news/2022/jan-grundmann-forschungsprojekt-biomethan--torfersatzstoff-aus-pappelholz) [[2]](https://biogas.fnr.de/service/presse/presse/aktuelle-nachricht/zwei-fliegen-mit-einer-klappe-pappelholz-fuer-biomethan-und-torfersatzstoffe), sewage sludge/gas) Biomethane pyrolysis electricity (graphite -> graphene)
   * Vaccination:
     * HPV [vaccination](https://www.aok.de/gp/verordnung/wirtschaftlichkeit/impfungen-niedersachsen/hpv) makes sense: HPV (women+men) infects [all mucosae](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=5828s) which can cause cancer.
 
