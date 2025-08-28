@@ -156,7 +156,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * [~13%](https://youtu.be/Wmo7M9I4fGc?feature=shared&t=4990) of breast cancer cases are caused by alcohol
     * Pregnant women who drink alcohol [only for 1 day](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=5230s) can already make their child violent and disabled.
   * Clean Air
-    * ⚠️⚠️ Microplastics and fine dust from car tire wear, non-magnetic train tire wear, combustion exhaust gases (wood stoves, combustion cars, gas and oil heating, coal-fired power plants), laundry fibers
+    * ⚠️⚠️⚠️ Microplastics and fine dust from car tire wear, non-magnetic train tire wear, combustion exhaust gases (wood stoves, combustion cars, gas and oil heating, coal-fired power plants) and laundry fibers can cause:
       * neurological damage (microplastics and fine dust get into your blood and even into your brain, they can pass the blood-brain barrier)
       * intestinal/lung damage, asthma, silicosis, Pneumonia, COPD, lung cancer
       * hormonal disorders
