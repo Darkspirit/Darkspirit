@@ -107,7 +107,9 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * rises blood pressure: vascular damage. risk of heart attacks and other cardiovascular diseases
   * At and below a pH value of 5.5, tooth enamel begins to dissolve/demineralize (slightly yellow).
     * caries risk (yellow/brown/black)
-    * Don't consume it multiple times a day. Cover your teeth with saliva immediately after drinking/eating.
+    * Don't have it multiple times a day.
+    * Cover your teeth with saliva immediately after drinking/eating
+      * Saliva contains calcium and phosphate ions which, together with fluoride toothpaste, lead to remineralization
     * Phosphoric acid: Cola, Lemonades, iced teas
     * Citric acid: citrus fruits, sour gummy bears, candies and lollipops
     * Malic acid: apples
