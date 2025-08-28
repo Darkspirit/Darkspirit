@@ -174,7 +174,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
             * Using current biofuel land for agri-PV could provide electric cars [11600% (116x)](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf#page=39) the driving range of biofuel.
           * BiodiversityPV: pollinators,insects,birds [[1]](https://blog.rheinenergie.com/blog/weltbienentag-am-20-mai-es-blueht-und-summt-unter-den-solaranlagen/2258) [[2]](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Downloads/J-L/leitfaden-naturschutzfachliche-mindestkriterien-bei-pv-freiflaechenanlagen.html)
             * Using current biofuel land for BiodiversityPV could provide electric cars 18900% (189x) the driving range of biofuel. (["Range is 190 times higher"](https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/aktuelle-fakten-zur-photovoltaik-in-deutschland.pdf#page=39))
-          * Wind
+          * Winter Wind, Winter vertical PV
           * public/private accus
           * Vehicle-to-Grid
           * Dark Doldrum Biomass(poplar instead of corn[[1]](https://group.vattenfall.com/de/newsroom/news/2022/jan-grundmann-forschungsprojekt-biomethan--torfersatzstoff-aus-pappelholz) [[2]](https://biogas.fnr.de/service/presse/presse/aktuelle-nachricht/zwei-fliegen-mit-einer-klappe-pappelholz-fuer-biomethan-und-torfersatzstoffe), sewage sludge/gas) Biomethane pyrolysis electricity (graphite -> graphene)
