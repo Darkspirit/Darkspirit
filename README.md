@@ -137,7 +137,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * Vitamin B4 (Choline) for liver, brain+nerve system
       * Zinc
   * Physical activity: [Any movement](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=6327s) that gets the circulation going for at least 10 minutes (makes the heart beat a little faster) temporarily brings the immune system's T cells out of their resting place (lymph nodes and bone marrow) into the bloodstream and lets them go on patrol which helps against cancer.
-  * ⚠️ At and below a pH value of 5.5, tooth enamel is irreversibly damaged, it begins to dissolve/demineralize (teeth become slightly yellow because the shell irreversibly becomes thinner, opaque white spot on tooth surface).
+  * ⚠️⚠️ At and below a pH value of 5.5, tooth enamel is irreversibly damaged, it begins to dissolve/demineralize (teeth become slightly yellow because the shell irreversibly becomes thinner, opaque white spot on tooth surface).
     * [later it looks like abraded, you only have the yellow core of the tooth left](https://medisiegel.de/gesundheit/zahnerosion)
     * caries risk (yellow/brown/black)
     * Don't have it multiple times a day, ideally not even daily.
@@ -148,7 +148,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * ⚠️⚠️ Citric acid: energy drinks (btw: mouthwash+energydrink=sulfur compounds that smell like rotten egg), sour gummy bears, candies and lollipops, citrus fruits
     * Malic acid: apples
     * ⚠️⚠️Lactic acid: When lactic acid bacteria that are anyway present in the mouth in small numbers come into contact with sugar they reproduce and produce acids (mainly lactic acid).
-  * Alcohol
+  * ⚠️⚠️⚠️ Alcohol
     * There is [no risk-free](https://www.dge.de/presse/meldungen/2024/dge-positionspapier-zu-alkohol/) amount of consumption: Recommended is zero.
     * Alcohol breakdown products from your liver destroy your DNA: mutation leads to cancer.
     * Alcohol disinfects because it lets cells explode. Alcohol destroys upper layers in your mouth, lower layers need to grow to replace them.
