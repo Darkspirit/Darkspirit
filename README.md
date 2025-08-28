@@ -109,7 +109,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * caries risk (yellow/brown/black)
     * Don't have it multiple times a day, ideally not even daily.
     * Cover your teeth with saliva immediately after drinking/eating
-      * Saliva contains calcium and phosphate ions which, together with fluoride toothpaste, lead to tooth enamel remineralization (teeth become white).
+      * Saliva contains calcium and phosphate ions which, together with fluoride toothpaste, lead to tooth enamel remineralization (it prevents further yellowization, but bleaching would be required for getting them white again).
     * Phosphoric acid: Cola, Lemonades, iced teas
     * Citric acid: citrus fruits, sour gummy bears, candies and lollipops
     * Malic acid: apples
