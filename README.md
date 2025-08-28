@@ -163,7 +163,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * heart disease, heart attacks, strokes, cancer
       * infant mortality
       * Alternatives
-        * Heat Pump for heating and cooling with hot+cold water distribution pipes and [fan coils](https://www.vaillant.at/privatanwender/produkte/hydraulischer-geblase-konvektor-fancoil-arovair-146880.html) that ideally have a HEPA air filter (have only found some with less good filters so far)
+        * R744 or R290 Heat Pump for heating and cooling with hot+cold water(R718) distribution pipes and [fan coils](https://www.vaillant.at/privatanwender/produkte/hydraulischer-geblase-konvektor-fancoil-arovair-146880.html) that ideally have a HEPA air filter (have only found some with less good filters so far)
           * [Public R744 Large Heat Pumps can produce heat+cold, store heat, reconvert heat into electrity](https://www.youtube.com/watch?v=HvuGS0c7sIs&t=418s)
           * R290 heat pump (e.g. air/water, ground/water)
           * Natural refrigerants (R744, R290) don't cause PFAS (like car air conditioners) or hydrogen fluoride (home air-to-air air conditioners)
