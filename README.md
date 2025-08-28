@@ -109,7 +109,8 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * caries risk (yellow/brown/black)
     * Don't consume it multiple times a day. Cover your teeth with saliva immediately after drinking/eating.
     * Phosphoric acid: Cola, Lemonades, iced teas
-    * Citric acid: sour gummy bears, candies and lollipops
+    * Citric acid: citrus fruits, sour gummy bears, candies and lollipops
+    * Malic acid: apples
     * Lactic acid: Lactic acid bacteria convert sugar from food into acids (mainly lactic acid).
       * These are present in small numbers in the mouth anyway. Only when they come into contact with sugar, they cause damage.
   * Alcohol
