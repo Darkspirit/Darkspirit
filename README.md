@@ -101,28 +101,10 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * Carbohydrates become sugar -> insulin goes up -> sugar becomes fat
   * Sugar
     * Sugar -> insulin goes up -> sugar becomes fat
-    * Lactic acid bacteria + sugar = lactic acid = pH at/below 5.5 = tooth enamel demineralizes (teeth become slightly yellow, opaque white spot on tooth surface) + caries risk (yellow/brown/black)
+    * Lactic acid bacteria + sugar = lactic acid = pH at/below 5.5 = tooth enamel demineralizes (teeth become slightly yellow because the shell irreversibly becomes thinner, opaque white spot on tooth surface) + caries risk (yellow/brown/black)
   * Minerals
     * Salt
       * rises blood pressure: vascular damage. risk of heart attacks and other cardiovascular diseases
-  * ⚠️ At and below a pH value of 5.5, tooth enamel is irreversibly damaged, it begins to dissolve/demineralize (teeth become slightly yellow because the shell irreversibly becomes thinner, opaque white spot on tooth surface).
-    * [later it looks like abraded, you only have the yellow core of the tooth left](https://medisiegel.de/gesundheit/zahnerosion)
-    * caries risk (yellow/brown/black)
-    * Don't have it multiple times a day, ideally not even daily.
-    * Cover your teeth with saliva immediately after drinking/eating
-      * Saliva contains calcium and phosphate ions which, together with fluoride toothpaste, lead to tooth enamel remineralization (it prevents further yellowization, nothing more).
-        * Bleaching would be required for getting them white again, but the damage can't be repaired, the shell can't be made thicker again.
-    * ⚠️⚠️ Phosphoric acid: Cola, Lemonades, iced teas
-    * ⚠️⚠️ Citric acid: energy drinks (btw: mouthwash+energydrink=sulfur compounds that smell like rotten egg), sour gummy bears, candies and lollipops, citrus fruits
-    * Malic acid: apples
-    * ⚠️Lactic acid: When lactic acid bacteria that are anyway present in the mouth in small numbers come into contact with sugar they reproduce and produce acids (mainly lactic acid).
-  * Alcohol
-    * There is [no risk-free](https://www.dge.de/presse/meldungen/2024/dge-positionspapier-zu-alkohol/) amount of consumption: Recommended is zero.
-    * Alcohol breakdown products from your liver destroy your DNA: mutation leads to cancer.
-    * Alcohol disinfects because it lets cells explode. Alcohol destroys upper layers in your mouth, lower layers need to grow to replace them.
-      * When you smoke (smoke contains more than 60 carcinogens that cause cancer) and consume alcohol, then your cancer risk is [100 times higher](https://youtu.be/Wmo7M9I4fGc?feature=shared&t=4904) compared to only smoking.
-    * [~13%](https://youtu.be/Wmo7M9I4fGc?feature=shared&t=4990) of breast cancer cases are caused by alcohol
-    * Pregnant women who drink alcohol [only for 1 day](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=5230s) can already make their child violent and disabled.
   * Vitamins and Minerals
     * [[link]](https://www.rossmann.de/de/gesundheit-altapharma-a-z-depot-ab-50/p/4305615887050)
       * Vitamins
@@ -155,6 +137,24 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * Vitamin B4 (Choline) for liver, brain+nerve system
       * Zinc
   * Physical activity: [Any movement](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=6327s) that gets the circulation going for at least 10 minutes (makes the heart beat a little faster) temporarily brings the immune system's T cells out of their resting place (lymph nodes and bone marrow) into the bloodstream and lets them go on patrol which helps against cancer.
+  * ⚠️ At and below a pH value of 5.5, tooth enamel is irreversibly damaged, it begins to dissolve/demineralize (teeth become slightly yellow because the shell irreversibly becomes thinner, opaque white spot on tooth surface).
+    * [later it looks like abraded, you only have the yellow core of the tooth left](https://medisiegel.de/gesundheit/zahnerosion)
+    * caries risk (yellow/brown/black)
+    * Don't have it multiple times a day, ideally not even daily.
+    * Cover your teeth with saliva immediately after drinking/eating
+      * Saliva contains calcium and phosphate ions which, together with fluoride toothpaste, lead to tooth enamel remineralization (it prevents further yellowization, nothing more).
+        * Bleaching would be required for getting them white again, but the damage can't be repaired, the shell can't be made thicker again.
+    * ⚠️⚠️ Phosphoric acid: Cola, Lemonades, iced teas
+    * ⚠️⚠️ Citric acid: energy drinks (btw: mouthwash+energydrink=sulfur compounds that smell like rotten egg), sour gummy bears, candies and lollipops, citrus fruits
+    * Malic acid: apples
+    * ⚠️Lactic acid: When lactic acid bacteria that are anyway present in the mouth in small numbers come into contact with sugar they reproduce and produce acids (mainly lactic acid).
+  * Alcohol
+    * There is [no risk-free](https://www.dge.de/presse/meldungen/2024/dge-positionspapier-zu-alkohol/) amount of consumption: Recommended is zero.
+    * Alcohol breakdown products from your liver destroy your DNA: mutation leads to cancer.
+    * Alcohol disinfects because it lets cells explode. Alcohol destroys upper layers in your mouth, lower layers need to grow to replace them.
+      * When you smoke (smoke contains more than 60 carcinogens that cause cancer) and consume alcohol, then your cancer risk is [100 times higher](https://youtu.be/Wmo7M9I4fGc?feature=shared&t=4904) compared to only smoking.
+    * [~13%](https://youtu.be/Wmo7M9I4fGc?feature=shared&t=4990) of breast cancer cases are caused by alcohol
+    * Pregnant women who drink alcohol [only for 1 day](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=5230s) can already make their child violent and disabled.
   * Vaccination:
     * HPV [vaccination](https://www.aok.de/gp/verordnung/wirtschaftlichkeit/impfungen-niedersachsen/hpv) makes sense: HPV (women+men) infects [all mucosae](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=5828s) which can cause cancer.
 
