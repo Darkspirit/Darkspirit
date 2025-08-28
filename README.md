@@ -101,14 +101,17 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * Carbohydrates become sugar -> insulin goes up -> sugar becomes fat
   * Sugar
     * Sugar -> insulin goes up -> sugar becomes fat
+    * Lactic acid bacteria + sugar = lactic acid = tooth enamel demineralizes + caries risk
   * Minerals
     * Salt
       * rises blood pressure: vascular damage. risk of heart attacks and other cardiovascular diseases
   * At and below a pH value of 5.5, tooth enamel begins to dissolve/demineralize.
-    * risk of tooth decay
+    * caries risk
     * Don't consume it multiple times a day. Cover your teeth with saliva immediately after drinking/eating.
     * Phosphoric acid: Cola, Lemonades, iced teas
     * Citric acid: sour gummy bears, candies and lollipops
+    * Lactic acid: Lactic acid bacteria convert sugar from food into acids (mainly lactic acid).
+      * These are present in small numbers in the mouth anyway. Only when they come into contact with sugar, they cause damage.
   * Alcohol
     * There is [no risk-free](https://www.dge.de/presse/meldungen/2024/dge-positionspapier-zu-alkohol/) amount of consumption: Recommended is zero.
     * Alcohol breakdown products from your liver destroy your DNA: mutation leads to cancer.
