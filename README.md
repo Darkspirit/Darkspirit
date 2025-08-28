@@ -163,8 +163,8 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * heart disease, heart attacks, strokes, cancer
       * infant mortality
       * Alternatives
-        * Heat Pump with hot+cold water distribution pipes and fan coils with HEPA filter for heating and cooling, Geothermy
-          * [R744 Public Large Heat Pump that can store heat, produce heat+cold, reconvert heat to electrity](https://www.youtube.com/watch?v=HvuGS0c7sIs&t=418s)
+        * Heat Pump with hot+cold water distribution pipes and fan coils with HEPA filter for heating and cooling
+          * [Public R744 Large Heat Pumps can produce heat+cold, store heat, reconvert heat into electrity](https://www.youtube.com/watch?v=HvuGS0c7sIs&t=418s)
           * R290 heat pump (e.g. air/water, ground/water)
           * Natural refrigerants (R744, R290) don't cause PFAS (like car air conditioners) or hydrogen fluoride (home air-to-air air conditioners)
         * magnetic train, electric car
