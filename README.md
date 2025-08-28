@@ -101,7 +101,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * Carbohydrates become sugar -> insulin goes up -> sugar becomes fat
   * Sugar
     * Sugar -> insulin goes up -> sugar becomes fat
-    * Lactic acid bacteria + sugar = lactic acid = tooth enamel demineralizes + caries risk
+    * Lactic acid bacteria + sugar = lactic acid = pH at/below 5.5 = tooth enamel demineralizes + caries risk
   * Minerals
     * Salt
       * rises blood pressure: vascular damage. risk of heart attacks and other cardiovascular diseases
