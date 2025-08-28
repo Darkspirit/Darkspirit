@@ -105,13 +105,13 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
   * Minerals
     * Salt
       * rises blood pressure: vascular damage. risk of heart attacks and other cardiovascular diseases
-  * ⚠️ At and below a pH value of 5.5, tooth enamel is irreversibly damaged, it begins to dissolve/demineralize (teeth become slightly yellow because the shell becomes thinner, opaque white spot on tooth surface).
+  * ⚠️ At and below a pH value of 5.5, tooth enamel is irreversibly damaged, it begins to dissolve/demineralize (teeth become slightly yellow because the shell irreversibly becomes thinner, opaque white spot on tooth surface).
     * [later it looks like abraded, you only have the yellow core of the tooth left](https://medisiegel.de/gesundheit/zahnerosion)
     * caries risk (yellow/brown/black)
     * Don't have it multiple times a day, ideally not even daily.
     * Cover your teeth with saliva immediately after drinking/eating
-      * Saliva contains calcium and phosphate ions which, together with fluoride toothpaste, lead to tooth enamel remineralization (it prevents further yellowization).
-        * Bleaching would be required for getting them white again, but it could not repair the damage, the shell can't be made thicker again.
+      * Saliva contains calcium and phosphate ions which, together with fluoride toothpaste, lead to tooth enamel remineralization (it prevents further yellowization, nothing more).
+        * Bleaching would be required for getting them white again, but the damage can't be repaired, the shell can't be made thicker again.
     * ⚠️⚠️ Phosphoric acid: Cola, Lemonades, iced teas
     * ⚠️⚠️ Citric acid: energy drinks (btw: mouthwash+energydrink=sulfur compounds that smell like rotten egg), sour gummy bears, candies and lollipops, citrus fruits
     * Malic acid: apples
