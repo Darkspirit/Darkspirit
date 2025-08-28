@@ -105,15 +105,16 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
   * Minerals
     * Salt
       * rises blood pressure: vascular damage. risk of heart attacks and other cardiovascular diseases
-  * At and below a pH value of 5.5, tooth enamel begins to dissolve/demineralize (teeth become slightly yellow, opaque white spot on tooth surface).
+  * ⚠️ At and below a pH value of 5.5, tooth enamel begins to dissolve/demineralize (teeth become slightly yellow, opaque white spot on tooth surface).
+    * [later it looks like abraded, you only have the yellow core of the tooth left](https://medisiegel.de/gesundheit/zahnerosion)
     * caries risk (yellow/brown/black)
     * Don't have it multiple times a day, ideally not even daily.
     * Cover your teeth with saliva immediately after drinking/eating
       * Saliva contains calcium and phosphate ions which, together with fluoride toothpaste, lead to tooth enamel remineralization (it prevents further yellowization, but bleaching would be required for getting them white again).
-    * Phosphoric acid: Cola, Lemonades, iced teas
-    * Citric acid: citrus fruits, sour gummy bears, candies and lollipops
+    * ⚠️⚠️ Phosphoric acid: Cola, Lemonades, iced teas
+    * ⚠️⚠️ Citric acid: energy drinks (btw: mouthwash+energydrink=sulfur compounds that smell like rotten egg), sour gummy bears, candies and lollipops, citrus fruits
     * Malic acid: apples
-    * Lactic acid: When lactic acid bacteria that are anyway present in the mouth in small numbers come into contact with sugar they reproduce and produce acids (mainly lactic acid).
+    * ⚠️Lactic acid: When lactic acid bacteria that are anyway present in the mouth in small numbers come into contact with sugar they reproduce and produce acids (mainly lactic acid).
   * Alcohol
     * There is [no risk-free](https://www.dge.de/presse/meldungen/2024/dge-positionspapier-zu-alkohol/) amount of consumption: Recommended is zero.
     * Alcohol breakdown products from your liver destroy your DNA: mutation leads to cancer.
