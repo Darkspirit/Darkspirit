@@ -167,7 +167,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
           * [Public R744 Large Heat Pumps can produce heat+cold, store heat, reconvert heat into electrity](https://www.youtube.com/watch?v=HvuGS0c7sIs&t=418s)
           * R290 heat pump (e.g. air/water, ground/water)
           * Natural refrigerants (R744, R290) don't cause PFAS (like car air conditioners) or hydrogen fluoride (home air-to-air air conditioners)
-        * magnetic train, electric car
+        * [magnetic train](https://magnetbahn.de/vorteile/), electric car
         * green energy
           * [AgriPV](https://www.ise.fraunhofer.de/de/geschaeftsfelder/solarkraftwerke-und-integrierte-photovoltaik/integrierte-photovoltaik/agri-photovoltaik-agri-pv.html) benefits: evaporation protection + hail protection + reduced pesticide need
             * Protein plants(peas etc: tasty Schnitzel)+catch crops
