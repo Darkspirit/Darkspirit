@@ -155,6 +155,20 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * When you smoke (smoke contains more than 60 carcinogens that cause cancer) and consume alcohol, then your cancer risk is [100 times higher](https://youtu.be/Wmo7M9I4fGc?feature=shared&t=4904) compared to only smoking.
     * [~13%](https://youtu.be/Wmo7M9I4fGc?feature=shared&t=4990) of breast cancer cases are caused by alcohol
     * Pregnant women who drink alcohol [only for 1 day](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=5230s) can already make their child violent and disabled.
+  * Clean Air
+    * ⚠️⚠️ Microplastics and fine dust from car tire wear, non-magnetic train tire wear, combustion exhaust gases (wood stoves, combustion cars, gas and oil heating, coal-fired power plants), laundry fibers
+      * neurological damage (microplastics and fine dust get into your blood and even into your brain, they can pass the blood-brain barrier)
+      * intestinal/lung damage, asthma, silicosis, Pneumonia, COPD, lung cancer
+      * hormonal disorders
+      * heart disease, heart attacks, strokes, cancer
+      * infant mortality
+      * Alternatives
+        * Heat Pump with hot+cold water distribution pipes and fan coils with HEPA filter for heating and cooling, Geothermy
+          * [R744 Public Large Heat Pump that can store heat, produce heat+cold, reconvert heat to electrity](https://www.youtube.com/watch?v=HvuGS0c7sIs&t=418s)
+          * R290 heat pump (e.g. air/water, ground/water)
+          * Natural refrigerants (R744, R290) don't cause PFAS (like car air conditioners) or hydrogen fluoride (home air-to-air air conditioners)
+        * magnetic train, electric car
+        * PV, Wind, public/private accus, Vehicle-to-Grid, Dark Doldrum Biomass(poplar instead of corn[[1]](https://group.vattenfall.com/de/newsroom/news/2022/jan-grundmann-forschungsprojekt-biomethan--torfersatzstoff-aus-pappelholz) [[2]](https://biogas.fnr.de/service/presse/presse/aktuelle-nachricht/zwei-fliegen-mit-einer-klappe-pappelholz-fuer-biomethan-und-torfersatzstoffe), sewage sludge/gas) Biomethane pyrolysis electricity
   * Vaccination:
     * HPV [vaccination](https://www.aok.de/gp/verordnung/wirtschaftlichkeit/impfungen-niedersachsen/hpv) makes sense: HPV (women+men) infects [all mucosae](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=5828s) which can cause cancer.
 
