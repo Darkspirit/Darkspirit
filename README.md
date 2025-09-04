@@ -29,7 +29,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * `CAA 0 issuemail ";"` [only issuemail can restrict S/MIME cert issuance](https://www.rfc-editor.org/rfc/rfc9495.html#name-no-issuemail-property)
     * `CAA 0 issuevmc ";"` [only issuevmc can restrict issuance of a signed maildomain logo](https://bimigroup.org/resources/VMC_Requirements_latest.pdf#page=59) for the [DNS TXT BIMI record](https://support.google.com/a/answer/10911321)
   * HSTS
-    * [HTTP header + preload](https://hstspreload.org/): `Strict-Transport-Security: max-age=31536000; includeSubDomains; preload`
+    * HTTP header + [preload](https://hstspreload.org/): `strict-transport-security: max-age=31536000; includesubdomains; preload` [[1]](https://datatracker.ietf.org/doc/html/rfc7540#:~:text=However%2C%20header%20field%20names%20MUST%20be%20converted%20to%20lowercase%20prior%20to%20their%20encoding%20in%20HTTP%2F2%2E) [[2]](https://datatracker.ietf.org/doc/html/rfc9114#:~:text=Characters%20in%20field%20names%20MUST%20be%20converted%20to%20lowercase%20prior%20to%20their%20encoding%2E) [[3]](https://datatracker.ietf.org/doc/html/rfc6797#:~:text=Directive%20names%20are%20case%2Dinsensitive%2E) [[4]](https://www.rfc-editor.org/rfc/rfc9204.html#:~:text=max%2Dage%3D31536000%3B%20includesubdomains%3B%20preload) 
     * HSTS via HTTPS DNS RR (`HTTPS 1 . alpn=h2`)
 * Hardware
   * Against [Side-channel attacks](https://en.wikipedia.org/wiki/Side-channel_attack): Use CPUs that don't have [Simultaneous multithreading](https://en.wikipedia.org/wiki/Simultaneous_multithreading) (SMT = more than 1 thread per physical core / multiple virtual cores per physical core / [Intel Hyper-Threading](https://en.wikipedia.org/wiki/Hyper-threading))
