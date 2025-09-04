@@ -23,14 +23,15 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
   * [Stalwart server](https://github.com/stalwartlabs/mail-server): mail (JMAP,IMAP,SMTP,DKIM,DMARC,etc), contacts/calendars/files (WebDAV, later also JMAP), ACME client
   * [warp](https://github.com/seanmonstar/warp) or [axum](https://github.com/tokio-rs/axum) web server framework
     * [Yew](https://github.com/yewstack/yew) or [Leptos](https://github.com/leptos-rs/leptos) web app framework
-* Please be green on [hardenize.com](https://hardenize.com) and use IPv6 (against IPv4 fragmentation attacks), [RPKI](https://nlnetlabs.nl/projects/rpki/routinator/) for BGP, [ECDSA DNSSEC](https://www.cloudflare.com/dns/dnssec/ecdsa-and-dnssec/) ([black lies](https://blog.cloudflare.com/black-lies/) instead of classic NSEC/NSEC3), TLSA/DANE, TLS 1.3,DMARC (`p=reject`), SPF (`mx -all`), [CSP](https://report-uri.com/home/generate), [XHTML5](https://blog.whatwg.org/xhtml5-in-a-nutshell),
+* Please be green on [hardenize.com](https://hardenize.com) and use IPv6 (against IPv4 fragmentation attacks), [RPKI](https://nlnetlabs.nl/projects/rpki/routinator/) for BGP, [ECDSA DNSSEC](https://www.cloudflare.com/dns/dnssec/ecdsa-and-dnssec/) ([black lies](https://blog.cloudflare.com/black-lies/) instead of classic NSEC/NSEC3), TLSA/DANE, TLS 1.3, DMARC (`p=reject`), SPF (`mx -all`), [CSP](https://report-uri.com/home/generate), [XHTML5](https://blog.whatwg.org/xhtml5-in-a-nutshell),
   * CAA
     * `CAA 128 issue "letsencrypt.org; validationmethods=dns-01"`
     * `CAA 0 issuemail ";"` [only issuemail can restrict S/MIME cert issuance](https://www.rfc-editor.org/rfc/rfc9495.html#name-no-issuemail-property)
     * `CAA 0 issuevmc ";"` [only issuevmc can restrict issuance of a signed maildomain logo](https://bimigroup.org/resources/VMC_Requirements_latest.pdf#page=59) for the [DNS TXT BIMI record](https://support.google.com/a/answer/10911321)
   * HSTS
     * HTTP header + [preload](https://hstspreload.org/): `strict-transport-security: max-age=31536000; includesubdomains; preload` [[1]](https://datatracker.ietf.org/doc/html/rfc7540#:~:text=However%2C%20header%20field%20names%20MUST%20be%20converted%20to%20lowercase%20prior%20to%20their%20encoding%20in%20HTTP%2F2%2E) [[2]](https://datatracker.ietf.org/doc/html/rfc9114#:~:text=Characters%20in%20field%20names%20MUST%20be%20converted%20to%20lowercase%20prior%20to%20their%20encoding%2E) [[3]](https://datatracker.ietf.org/doc/html/rfc6797#:~:text=Directive%20names%20are%20case%2Dinsensitive%2E) [[4]](https://www.rfc-editor.org/rfc/rfc9204.html#:~:text=max%2Dage%3D31536000%3B%20includesubdomains%3B%20preload) 
-    * HSTS via HTTPS DNS RR (`HTTPS 1 . alpn=h2`)
+    * HSTS via HTTPS DNS RR: `HTTPS 1 . alpn=h2` or `HTTPS 1 . alpn=h3,h2` and in the future `HTTPS 1 . alpn=h3`
+  * [Require a QUIC Retry-Token](https://github.com/quinn-rs/quinn/blob/fe596df2c4402afe2c72a7bb5628ec0fc6298021/quinn/examples/server.rs#L153-L155) (it's like a TCP SYN Cookie) for [HTTP3](https://github.com/hyperium/h3/blob/master/examples/server.rs)
 * Hardware
   * Against [Side-channel attacks](https://en.wikipedia.org/wiki/Side-channel_attack): Use CPUs that don't have [Simultaneous multithreading](https://en.wikipedia.org/wiki/Simultaneous_multithreading) (SMT = more than 1 thread per physical core / multiple virtual cores per physical core / [Intel Hyper-Threading](https://en.wikipedia.org/wiki/Hyper-threading))
 
