@@ -33,6 +33,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * HSTS via HTTPS DNS RR: `HTTPS 1 . alpn=h2` or `HTTPS 1 . alpn=h3,h2` and in the future `HTTPS 1 . alpn=h3`
   * Against UDP (QUIC) reflection/amplification attacks: [Require](https://github.com/quinn-rs/quinn/blob/fe596df2c4402afe2c72a7bb5628ec0fc6298021/quinn/examples/server.rs#L153-L155) a QUIC [Retry token](https://datatracker.ietf.org/doc/html/rfc9000#:~:text=A%20server%20MAY%20send%20Retry%20packets%20in%20response%20to%20Initial%20and%200%2DRTT%20packets%2E) for [HTTP3](https://github.com/hyperium/h3/blob/master/examples/server.rs) (it's like a TCP SYN Cookie, otherwise the server would spam its TLS certificate to unvalidated IP addresses)
     * [HTTP3 can better handle packet loss + client IP change](https://calendar.perfplanet.com/2020/head-of-line-blocking-in-quic-and-http-3-the-details/): HTTP1.1 head-of-line blocking is solved by HTTP2 multiplexing, but it still suffers from TCP head-of-line blocking in case of packet loss. HTTP3 solves that by using UDP QUIC.
+    * [HTTP3 pro and contra](https://calendar.perfplanet.com/2018/quic-and-http-3-too-big-to-fail/)
 * Hardware
   * Against [Side-channel attacks](https://en.wikipedia.org/wiki/Side-channel_attack): Use CPUs that don't have [Simultaneous multithreading](https://en.wikipedia.org/wiki/Simultaneous_multithreading) (SMT = more than 1 thread per physical core / multiple virtual cores per physical core / [Intel Hyper-Threading](https://en.wikipedia.org/wiki/Hyper-threading))
 
