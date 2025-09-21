@@ -182,7 +182,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
           * Winter Wind, Winter vertical PV
           * public/private accus
           * Vehicle-to-Grid
-          * Dark Doldrum Biomass(poplar instead of corn[[1]](https://group.vattenfall.com/de/newsroom/news/2022/jan-grundmann-forschungsprojekt-biomethan--torfersatzstoff-aus-pappelholz) [[2]](https://biogas.fnr.de/service/presse/presse/aktuelle-nachricht/zwei-fliegen-mit-einer-klappe-pappelholz-fuer-biomethan-und-torfersatzstoffe), sewage sludge/gas) [Biomethane](https://reverion.com/biogas-kraftwerke/) pyrolysis electricity ([biochar](https://twitter.com/HubertAiwanger/status/1680943852696338433) or graphite->graphene)
+          * Dark Doldrum Biomass(poplar instead of corn[[1]](https://group.vattenfall.com/de/newsroom/news/2022/jan-grundmann-forschungsprojekt-biomethan--torfersatzstoff-aus-pappelholz) [[2]](https://biogas.fnr.de/service/presse/presse/aktuelle-nachricht/zwei-fliegen-mit-einer-klappe-pappelholz-fuer-biomethan-und-torfersatzstoffe), sewage sludge/gas) [Biomethane/eMethane](https://reverion.com/biogas-kraftwerke/) pyrolysis electricity ([biochar](https://twitter.com/HubertAiwanger/status/1680943852696338433) or graphite->graphene)
   * Vaccination:
     * HPV [vaccination](https://www.aok.de/gp/verordnung/wirtschaftlichkeit/impfungen-niedersachsen/hpv) makes sense: HPV (women+men) infects [all mucosae](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=5828s) which can cause cancer.
 
