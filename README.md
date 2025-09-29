@@ -106,12 +106,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * white meat (birds: chicken etc)
       * milk
       * ⚠️⚠️ inflammation (if you are a mammal cannibal): [Red meat](https://www.ndr.de/ratgeber/gesundheit/Rotes-Fleisch-Ungesund-bei-uebermaessigem-Verzehr,fleisch588.html) comes from mammals and contains heme iron, which can promote oxidative stress and inflammation in the gut, increasing the risk of colon cancer:
-        * Cow: Beef (Steak, roast beef, ground beef, ribs)
-        * Pig: Pork (Schnitzel, chops, roast pork, pork belly)
-        * Lamb: Lamb chops, leg of lamb
-        * Goat meat
-        * wild meat: Deer, venison, wild boar
-        * Horse meat
+        * Cow, pig, lamb, goat, wild meat (deer, venison, wild boar), horse
       * ⚠️⚠️⚠️ Additional cancer cause: Processed meat includes meat that has been preserved by smoking, curing, salting, or the addition of preservatives (e.g., nitrates, nitrites). These substances can form [nitrosamines](https://www.efsa.europa.eu/de/news/nitrosamines-food-raise-health-concern), which are carcinogenic.
         * Sausages: Salami, ham, bratwurst, Vienna sausages, liverwurst
         * Bacon
