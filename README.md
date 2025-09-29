@@ -58,6 +58,21 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
         * inflammation causes cancer
       * rather solid at room temperature
       * land animal fat
+        * white meat (birds: chicken etc)
+        * ⚠️⚠️ additional inflammation: [Red meat](https://www.ndr.de/ratgeber/gesundheit/Rotes-Fleisch-Ungesund-bei-uebermaessigem-Verzehr,fleisch588.html) comes from mammals and contains heme iron, which can promote oxidative stress and inflammation in the gut, increasing the risk of colon cancer:
+          * Cow: Beef (Steak, roast beef, ground beef, ribs)
+          * Pig: Pork (Schnitzel, chops, roast pork, pork belly)
+          * Lamb: Lamb chops, leg of lamb
+          * Goat meat
+          * wild meat: Deer, venison, wild boar
+          * Horse meat
+        * ⚠️⚠️⚠️ Additional cancer cause: Processed meat includes meat that has been preserved by smoking, curing, salting, or the addition of preservatives (e.g., nitrates, nitrites). These substances can form [nitrosamines](https://www.efsa.europa.eu/de/news/nitrosamines-food-raise-health-concern), which are carcinogenic.
+          * Sausages: Salami, ham, bratwurst, Vienna sausages, liverwurst
+          * Bacon
+          * Cured meats: Corned beef, pastrami
+          * Smoked meats: Smoked ham, smoked ribs
+          * Canned meats: Canned meat with preservatives
+          * Grok Recommendation: Processed meat should be avoided as much as possible or severely limited (e.g., no more than 1-2 times per month).
       * 80-90% of coconut oil (vegetarian butter, cheese)
     * unsaturated fatty acids
       * monounsaturated fatty acids
