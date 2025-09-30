@@ -54,33 +54,66 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
         * women: 655,1 + (9,563 * weight in kg) + (1,850 * height in cm) - (4,676 * age)
           * e.g. 655,1 + (9,563 * 65 kg) + (1,850 * 175 cm) - (4,676 * 30 years) = 1460 kcal per day
     * saturated fatty acids (maximum [7 to 10%](https://www.dge.de/gesunde-ernaehrung/faq/fettleitline/#c3312) of daily kcal consumption, e.g. 0,07*1633=114.31 kcal)
-      * pro-inflammatory
+      * non-essential, the body can synthethize them
+      * ⚠️ pro-inflammatory
         * inflammation causes cancer
       * rather solid at room temperature
       * land animal fat
       * 80-90% of coconut oil (vegetarian butter, cheese)
+      * PA: Palmitic Acid (C16:0)
+        * Most common saturated fatty acid in animal and plant fats.
+        * Palm oil (40–45%), meat (e.g., chicken: 0.7–5 g/100 g), butter, coconut oil.
+        * Can raise LDL cholesterol if consumed excessively; moderate intake is generally safe.
+      * SA: Stearic Acid (C18:0)
+        * Long-chain saturated fatty acid, less harmful than palmitic acid.
+        * Neutral effect on cholesterol; partially converted to oleic acid in the body.
+      * MA: Myristic Acid (C14:0)
+        * Medium-chain saturated fatty acid.
+        * Coconut oil, dairy products, palm oil.
+        * Present in small amounts; may slightly raise LDL cholesterol.
     * unsaturated fatty acids
       * monounsaturated fatty acids
         * Omega-9
           * anti-inflammatory
-          * oleic acid
+          * OA: Oleic Acid (C18:1, Omega-9)
+            * Most common monounsaturated fatty acid, non-essential (body can produce it from satured fatty acids).
+              * Olives also contain antioxidants (e.g., polyphenols, vitamin E), which protect against oxidative stress, unlike synthetic omega-9 produced from saturated fats in the body.
+            * Heart-protective, anti-inflammatory; key component of the Mediterranean diet.
             * olives / olive oil (rather for cold cooking. safe with distance below smoke point of [130°C-190°C](https://de.wikipedia.org/wiki/Rauchpunkt), you might reach it and harmful substances form.)
+            * avocado, canola/rape oil, almonds, palm oil (35–38%)
+        * Omega-7
+          * POA: Palmitoleic Acid (C16:1, Omega-7)
+            * Macadamia nuts, seaweed, fish oil, trace amounts in olives.
+            * May reduce inflammation; less studied but potentially beneficial.
       * polyunsaturated fatty acids (maximum [10%](https://www.dge.de/gesunde-ernaehrung/faq/fettleitline/#c3312) of daily kcal consumption, e.g. 0,1*1633=163.3 kcal)
         * Omega-6
           * If too much: pro-inflammatory (but too less Omega-6 would be unhealthy as well)
-            * 50:1 (even 10:1) Omega-6 to Omega-3 ratio is pro-inflammatory and frequent in the West
+            * ⚠️ 50:1 (even 10:1) Omega-6 to Omega-3 ratio is pro-inflammatory and frequent in the West
             * recommended maximum is 5:1, ideal would be 1:1.
             * The same enzyme processes Omega 6 and 3: If all enzymes are "occupied" with omega-6, the body cannot absorb omega-3.
-          * sunflower oil (safe with distance below smoke point of [232-252°C](https://de.wikipedia.org/wiki/Rauchpunkt))
-          * Colza/Rape oil for frying (also contains some Omega-3 ALA. safe with distance below smoke point of [190-230°C](https://de.wikipedia.org/wiki/Rauchpunkt))
+          * LA: Linoleic Acid (C18:2)
+            * Most common Omega-6, precursor to arachidonic acid.
+            * Essential for cell membranes; excessive intake can promote inflammation.
+            * sunflower oil (safe with distance below smoke point of [232-252°C](https://de.wikipedia.org/wiki/Rauchpunkt))
+            * Canola/Rape oil for frying (also contains some Omega-3 ALA. safe with distance below smoke point of [190-230°C](https://de.wikipedia.org/wiki/Rauchpunkt))
+          * AA: Arachidonic Acid (C20:4)
+            * Synthesized from linoleic acid; precursor to inflammatory compounds (e.g., prostaglandins).
+            * eggs, indirectly via linoleic acid, meat (e.g., chicken, pork, in small amounts).
+            * Necessary for immune responses; excess may contribute to chronic inflammation.
         * Omega-3
           * [anti-inflammatory](https://www.annualreviews.org/content/journals/10.1146/annurev-food-111317-095850)
-          * ALA
+          * ALA: Alpha-Linolenic Acid (C18:3) (essential, required for heart and brain health)
+            * Essential for cardiovascular health and inflammation reduction; conversion to EPA/DHA is limited, so direct sources are preferred.
             * Linseed/Flaxseed oil for cold cooking (safe with distance below smoke point of [~107°C](https://de.wikipedia.org/wiki/Rauchpunkt): Must not be used for frying, otherwise harmful substances form.)
+            * chia seeds, walnuts
             * Colza/Rape oil for frying (contains more Omega-6 than Omega-3 ALA. safe with distance below smoke point of [190-230°C](https://de.wikipedia.org/wiki/Rauchpunkt))
           * EPA+DHA from Schizochytrium microalgae [[1]](https://www.rossmann.de/de/gesundheit-doppelherz-omega-3-1000-vegan-kapseln/p/4009932132786) [[2]](https://www.rossmann.de/de/gesundheit-altapharma-omega-3-algenoel/p/4305615808970)
             * for brain, eyes, heart, skin
             * 0,25–0,5g/day recommended. up to 5g/day definitely harmless according to [EFSA](https://www.efsa.europa.eu/de/press/news/120727) who did not define an upper limit
+            * EPA: Eicosapentaenoic Acid (C20:5)
+              * Anti-inflammatory, reduces triglycerides, supports heart and mental health.
+            * DHA: Docosahexaenoic Acid (C22:6)
+              * Essential for neurological development, cognitive function, and vision.
             * alternatives:
               | fish | g EPA/<br/>100g | g DHA/<br/>100g | g ALA/<br/>100g | g Ome<br/>ga-6/<br/>100g | 6/3 ratio |  |
               |------|----------|----------|----------|--------------|---|---|
