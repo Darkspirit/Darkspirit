@@ -74,11 +74,10 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * unsaturated fatty acids
       * monounsaturated fatty acids
         * Omega-9
-          * anti-inflammatory
           * OA: Oleic Acid (C18:1, Omega-9)
+            * Heart-protective, anti-inflammatory; key component of the Mediterranean diet.
             * Most common monounsaturated fatty acid, non-essential (body can produce it from satured fatty acids).
               * Olives also contain antioxidants (e.g., polyphenols, vitamin E), which protect against oxidative stress, unlike synthetic omega-9 produced from saturated fats in the body.
-            * Heart-protective, anti-inflammatory; key component of the Mediterranean diet.
             * olives / olive oil (rather for cold cooking. safe with distance below smoke point of [130°C-190°C](https://de.wikipedia.org/wiki/Rauchpunkt), you might reach it and harmful substances form.)
             * avocado, canola/rape oil, almonds, palm oil (35–38%)
         * Omega-7
