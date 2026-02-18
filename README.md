@@ -132,7 +132,6 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * If too much -> becomes sugar -> insulin goes up -> sugar becomes fat
     * If too little -> muscles are consumed
     * ca. 1,0-1,6g protein per kg body weight per day
-    * During digestion, dietary proteins are broken down into individual amino acids, which the body then reassembles into its own proteins (e.g., muscle tissue, enzymes, hormones, antibodies, etc.).
     * plant protein
       * Pea protein is a strong all-rounder (often near-complete); wheat gluten excels in many but is low in lysine/threonine → best combined with legumes.
     * fish protein
@@ -154,7 +153,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
         * Smoked meats: Smoked ham, smoked ribs
         * Canned meats: Canned meat with preservatives
         * Grok Recommendation: Processed meat should be avoided as much as possible or severely limited (e.g., no more than 1-2 times per month).
-    * Proteins are made up of amino acids, just like a string of pearls is made up of pearls.
+    * During digestion, dietary proteins are broken down into individual amino acids, which the body then reassembles into its own proteins (e.g., muscle tissue, enzymes, hormones, antibodies, etc.).
       * Essential amino acids: The body cannot produce them (or not enough) on its own
         | essential | plant | marine | white meat | other | red meat |
         |---|---|---|---|---|---|
