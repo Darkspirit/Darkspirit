@@ -258,6 +258,10 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
           * Dark Doldrum Biomass(poplar instead of corn[[1]](https://group.vattenfall.com/de/newsroom/news/2022/jan-grundmann-forschungsprojekt-biomethan--torfersatzstoff-aus-pappelholz) [[2]](https://biogas.fnr.de/service/presse/presse/aktuelle-nachricht/zwei-fliegen-mit-einer-klappe-pappelholz-fuer-biomethan-und-torfersatzstoffe), sewage sludge/gas) Biomethane/eMethane[[1]](https://www.zdfheute.de/wirtschaft/reverion-biogas-brennstoffzelle-energieumwandlung-kraftwerk-100.html)[[2]](https://reverion.com/biogas-kraftwerke/)[[3]](https://www.uni-due.de/2025-11-20-eroeffnung-liquid-solar-anlage-die-aus-licht-und-co2-kraftstoff-erzeugt) pyrolysis electricity ([biochar](https://twitter.com/HubertAiwanger/status/1680943852696338433) or graphite->graphene)
   * Vaccination:
     * HPV [vaccination](https://www.aok.de/gp/verordnung/wirtschaftlichkeit/impfungen-niedersachsen/hpv) makes sense: HPV (women+men) infects [all mucosae](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=5828s) which can cause cancer.
+      * Gardasil 9 protects against 9 types of HPV (6, 11, 16, 18, 31, 33, 45, 52, and 58), the immune response caused by it might help a bit against feet plantar warts (from public bath houses), but it's not guaranteed.
+      * Cervarix protects against 2 types of HPV (16, 18)
+      * Plantar warts (verrucae), which are rough bumps on the feet with black dots (dried blood vessels), are caused by different HPV strains—typically types 1, 2, 4, 27, and 57.
+
 
 <!--
 **Darkspirit/Darkspirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
