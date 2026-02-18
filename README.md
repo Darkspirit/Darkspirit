@@ -139,7 +139,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * High Omega-3 species (sardines, sprats, herring, mackerel, salmon) generally higher in protein/amino density; lower ones (Alaska pollack, chub, eel, trout) are still good.
     * land animal protein
       * white meat (birds: chicken etc)
-        * ⚠️⚠️ Risk of creating resistant germs (which makes antibiotics less effective or even completely ineffective for humans)
+        * ⚠️⚠️ Factory farming means routine use of antibiotics: High risk of creating resistant germs (which makes antibiotics less effective or even completely ineffective for humans)
       * milk
         * ⚠️⚠️ Factory farming means routine use of antibiotics: High risk of creating resistant germs (which makes antibiotics less effective or even completely ineffective for humans)
         * ⚠️ Cows produce methane (worse than CO2), which causes climate change.
