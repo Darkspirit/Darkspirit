@@ -129,16 +129,23 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
               * large fish (high toxic methylmercury): Tuna (0,4–0,8g DHA/100g, 0,1–0,3g EPA/100g, 0,05–0,1g ALA, 0,05–0,1g Omega-6), Wild salmon
               * critically endangered + more toxic methylmercury: wild(!) freshwater eel (moderate Omega-3, high fat content)
   * Protein
-    * Amino acids
     * If too much -> becomes sugar -> insulin goes up -> sugar becomes fat
     * If too little -> muscles are consumed
+    * ca. 1,0-1,6g protein per kg body weight per day
+    * During digestion, dietary proteins are broken down into individual amino acids, which the body then reassembles into its own proteins (e.g., muscle tissue, enzymes, hormones, antibodies, etc.).
     * plant protein
+      * Pea protein is a strong all-rounder (often near-complete); wheat gluten excels in many but is low in lysine/threonine → best combined with legumes.
     * fish protein
+      * High Omega-3 species (sardines, sprats, herring, mackerel, salmon) generally higher in protein/amino density; lower ones (Alaska pollack, chub, eel, trout) are still good.
     * land animal protein
       * white meat (birds: chicken etc)
+        * ⚠️⚠️ Risk of creating resistant germs (which makes antibiotics less effective or even completely ineffective for humans)
       * milk
+        * ⚠️ Causes methane (worse than CO2), which causes climate change.
       * ⚠️⚠️ inflammation (if you are a mammal cannibal): [Red meat](https://www.ndr.de/ratgeber/gesundheit/Rotes-Fleisch-Ungesund-bei-uebermaessigem-Verzehr,fleisch588.html) comes from mammals and contains heme iron, which can promote oxidative stress and inflammation in the gut, increasing the risk of colon cancer:
         * Cow, pig, lamb, goat, wild meat (deer, venison, wild boar), horse
+        * ⚠️⚠️ Risk of creating resistant germs (which makes antibiotics less effective or even completely ineffective for humans)
+        * ⚠️ Causes methane (worse than CO2), which causes climate change.
       * ⚠️⚠️⚠️ Additional cancer cause: Processed meat includes meat that has been preserved by smoking, curing, salting, or the addition of preservatives (e.g., nitrates, nitrites). These substances can form [nitrosamines](https://www.efsa.europa.eu/de/news/nitrosamines-food-raise-health-concern), which are carcinogenic.
         * Sausages: Salami, ham, bratwurst, Vienna sausages, liverwurst
         * Bacon
@@ -146,6 +153,25 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
         * Smoked meats: Smoked ham, smoked ribs
         * Canned meats: Canned meat with preservatives
         * Grok Recommendation: Processed meat should be avoided as much as possible or severely limited (e.g., no more than 1-2 times per month).
+    * Proteins are made up of amino acids, just like a string of pearls is made up of pearls.
+      * Essential amino acids: The body cannot produce them (or not enough) on its own
+        | essential | plant | marine | white meat | other | red meat |
+        |---|---|---|---|---|---|
+        | Histidine (semi-essential in adults, essential in infants/children) | Pea protein, soy (tofu/edamame), spirulina, hemp seeds, quinoa, chia seeds, wheat gluten (good) | Tuna, coastal sardines, coastal sprats, Atlantic herring, coastal mackerel, saltwater salmon, freshwater trout, Alaska pollack, freshwater chub, freshwater eel (low) | Turkey, chicken | Parmesan cheese, Swiss cheese, eggs, Greek yogurt | Beef, pork, lamb |
+        | Isoleucine | Pea protein (good), soy, spirulina, pumpkin seeds, almonds, cashews, lentils, quinoa, wheat gluten | Tuna, salmon, coastal mackerel, Atlantic herring, coastal sardines/sprats, trout, Alaska pollack, chub, eel (low) | Chicken, turkey | Parmesan/cheddar cheese, eggs, cottage cheese | Beef (lean), pork |
+        | Leucine | Pea protein (strong), soy, spirulina, pumpkin seeds, hemp seeds, peanuts, lentils, quinoa, wheat gluten | Tuna, salmon, coastal mackerel, Atlantic herring, sardines/sprats, trout, Alaska pollack, chub, eel (low) | Chicken, turkey | Parmesan cheese, cottage cheese, eggs, Greek yogurt | Beef (lean/skirt), pork |
+        | Lysine | Pea protein (good), soy, amaranth, quinoa, pistachios, lentils, beans, wheat gluten (low/limiting) | Tuna, salmon, shrimp, coastal sardines/sprats, mackerel, herring, trout, Alaska pollack, chub, eel (low) | Chicken, turkey | Parmesan cheese, cottage cheese, milk, yogurt, eggs | Beef (lean), pork, lamb |
+        | Methionine | Brazil nuts, sesame seeds, soy, oats, sunflower seeds, pea protein (moderate/low sulfur), wheat gluten (moderate) | Tuna (high), salmon, shrimp, coastal mackerel/sardines/sprats/herring, trout, Alaska pollack, chub, eel (low) | Chicken, turkey | Eggs (very high), Parmesan cheese, Greek yogurt | Beef, pork, lamb |
+        | Phenylalanine | Pea protein, soy, almonds, pumpkin seeds, peanuts, quinoa, wheat gluten (good) | Tuna, salmon, coastal mackerel/herring/sardines/sprats, trout, Alaska pollack, chub, eel (low) | Chicken, turkey | Eggs, Parmesan/cheddar cheese, milk | Beef, pork, lamb |
+        | Threonine | Pea protein (good), soy, lentils, sesame seeds, chickpeas, quinoa, wheat gluten (low/limiting) | Tuna, salmon, coastal mackerel/sardines/sprats/herring, trout, Alaska pollack, chub, eel (low) | Turkey (high), chicken | Cottage cheese, eggs, Greek yogurt | Beef, pork |
+        | Tryptophan | Pea protein, pumpkin seeds, chia seeds, hemp seeds, oats, soy, bananas (lower), dark chocolate, wheat gluten | Tuna, salmon, coastal mackerel/sardines/sprats/herring, trout, Alaska pollack, chub, eel (low) | Turkey (highest), chicken | Cheddar/mozzarella cheese, eggs, milk, Greek yogurt | Beef, pork, lamb |
+        | Valine | Pea protein (good), soy, spirulina, peanuts, chia seeds, almonds, mushrooms, wheat gluten  | Tuna, salmon, coastal mackerel/herring/sardines/sprats, trout, Alaska pollack, chub, eel (low) | Chicken, turkey | Parmesan cheese, eggs, cottage cheese | Beef, pork |
+      * Conditionally essential (semi-essential) amino acids: Must not be obtained from food, but often insufficient during stress, illness, growth, injury, etc.
+        | semi essential | plant | marine | white meat | other | red meat |
+        |---|---|---|---|---|---|
+        | Arginine, Cysteine, Glutamine, Glycine, Proline, Tyrosine | Pea protein (high arginine/glycine), soy, spirulina, nuts/seeds (almonds, peanuts), legumes (lentils/chickpeas high arginine), wheat gluten (very high proline/glycine/glutamine), oats, cabbage | Tuna, salmon, coastal mackerel/sardines/sprats/herring (high overall), trout, Alaska pollack, chub, eel (moderate/low) | Chicken, turkey (high arginine/glutamine) | Eggs (high cysteine), cheese/Parmesan (high proline/tyrosine), Greek yogurt, milk, gelatin/bone broth (high glycine/proline) | Beef, pork, lamb (high arginine/glycine) |
+      * Non-essential amino acids: The body can synthesize them.
+        * Alanine, Asparagine, Aspartic acid, Glutamic acid, Serine, etc.
   * Carbohydrates
     * Indigestible carbohydrates (called fiber)
     * Digestible carbohydrates (the actual Carbohydrates)
