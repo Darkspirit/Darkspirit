@@ -141,11 +141,12 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * white meat (birds: chicken etc)
         * ⚠️⚠️ Risk of creating resistant germs (which makes antibiotics less effective or even completely ineffective for humans)
       * milk
-        * ⚠️ Causes methane (worse than CO2), which causes climate change.
+        * ⚠️⚠️ Factory farming means routine use of antibiotics: High risk of creating resistant germs (which makes antibiotics less effective or even completely ineffective for humans)
+        * ⚠️ Cows produce methane (worse than CO2), which causes climate change.
       * ⚠️⚠️ inflammation (if you are a mammal cannibal): [Red meat](https://www.ndr.de/ratgeber/gesundheit/Rotes-Fleisch-Ungesund-bei-uebermaessigem-Verzehr,fleisch588.html) comes from mammals and contains heme iron, which can promote oxidative stress and inflammation in the gut, increasing the risk of colon cancer:
         * Cow, pig, lamb, goat, wild meat (deer, venison, wild boar), horse
-        * ⚠️⚠️ Risk of creating resistant germs (which makes antibiotics less effective or even completely ineffective for humans)
-        * ⚠️ Causes methane (worse than CO2), which causes climate change.
+        * ⚠️⚠️ Factory farming means routine use of antibiotics: High risk of creating resistant germs (which makes antibiotics less effective or even completely ineffective for humans)
+        * ⚠️ Cows produce methane (worse than CO2), which causes climate change.
       * ⚠️⚠️⚠️ Additional cancer cause: Processed meat includes meat that has been preserved by smoking, curing, salting, or the addition of preservatives (e.g., nitrates, nitrites). These substances can form [nitrosamines](https://www.efsa.europa.eu/de/news/nitrosamines-food-raise-health-concern), which are carcinogenic.
         * Sausages: Salami, ham, bratwurst, Vienna sausages, liverwurst
         * Bacon
