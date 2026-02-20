@@ -134,7 +134,6 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * ca. 1,0-1,6g protein per kg body weight per day
     * plant protein
     * fish protein
-      * High Omega-3 species (sardines, sprats, herring, mackerel, salmon) generally higher in protein/amino density; lower ones (Alaska pollack, chub, eel, trout) are still good.
     * land animal protein
       * white meat (birds: chicken etc)
         * ⚠️⚠️ Factory farming means routine use of antibiotics: High risk of creating resistant germs (which makes antibiotics less effective or even completely ineffective for humans)
