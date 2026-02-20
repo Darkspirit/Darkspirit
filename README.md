@@ -133,7 +133,6 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     * If too little -> muscles are consumed
     * ca. 1,0-1,6g protein per kg body weight per day
     * plant protein
-      * Pea protein is a strong all-rounder (often near-complete); wheat gluten excels in many but is low in lysine/threonine → best combined with legumes.
     * fish protein
       * High Omega-3 species (sardines, sprats, herring, mackerel, salmon) generally higher in protein/amino density; lower ones (Alaska pollack, chub, eel, trout) are still good.
     * land animal protein
