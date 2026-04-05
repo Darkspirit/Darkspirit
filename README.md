@@ -44,7 +44,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
 * Organic hardware health security (in progress)
   * Fat (maximum [30 to 35%](https://www.dge.de/gesunde-ernaehrung/faq/fettleitline/#c3311) of daily kcal consumption, e.g. 0,35*1633=571.55 kcal)
     * Fat -> liver -> ketone bodies as energy
-    * If too little kcal/day: body fat becomes energy if insulin level is low (insulin peaks/high sugar peaks should be avoided against insulin resistance which causes Diabetes type 2 and potentially Alzheimer/dementia[[1]](https://www.agm-online.de/demenz-und-alzheimer/wissensportal-einblickdemenz/01-2016-ueberraschende-verbindung-zwischen-alzheimer-und-diabetes-typ-2)[[2]](https://pmc.ncbi.nlm.nih.gov/articles/PMC12890726/))
+    * If too little kcal/day: body fat becomes energy if insulin level is low (insulin peaks/high sugar peaks [should be avoided](https://www.agm-online.de/demenz-und-alzheimer/wissensportal-einblickdemenz/01-2016-ueberraschende-verbindung-zwischen-alzheimer-und-diabetes-typ-2) against insulin resistance which causes Diabetes type 2 and potentially Alzheimer/dementia)
       * (=in case you eat a bit carbohydrates or sugar, way less fat becomes energy, even more muscle mass is consumed and hunger is higher)
     * If too much kcal/day (from sugar, carbohydrates, protein or fat): fat becomes body fat if you eat more kcal than needed
       * resting metabolic rate: idle condition = 1 kcal per hour per kg body weight = e.g. 65kg * 24kcal = 1560kcal
