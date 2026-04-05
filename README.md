@@ -212,7 +212,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * against brain fog (it really helps, try it definitely!)
     * [Vitamin K2 + D3 2500 I.U.](https://www.rossmann.de/de/gesundheit-doppelherz-vitamin-k2--d3-2500-ie-30-tabletten/p/4009932136616)
       * D3 protects dna (telomeres) which protects against cancer (cell mutation) [[1a]](https://www.focus.de/gesundheit/ernaehrung/vitamin-d-kann-laut-studie-dazu-beitragen-den-alterungsprozess-zu-verlangsamen_e18c5b16-3ab9-41a1-8e96-a5d2bae53e8f.html)[[1b]](https://www.sciencedirect.com/science/article/abs/pii/S0002916525002552)[[2]](https://www.focus.de/gesundheit/ratgeber/forscher-untersuchen-wie-viel-vitamin-d-vor-krebs-schuetzt_950351d0-cfdc-4b52-bf2e-39618e6ee969.html)
-      * D3 activates T cells of your immune system which go on patrol [1](https://www.sciencedaily.com/releases/2010/03/100307215534.htm)
+      * D3 activates T cells of your immune system which go on patrol [[1]](https://www.sciencedaily.com/releases/2010/03/100307215534.htm)
       * K2 ensures calcium goes into bones and not into arteries
     * maybe [[link]](https://www.rossmann.de/de/gesundheit-zirkulin-leber-vital-hochdosiert/p/4036581253388)
       * Silymarin (for liver: anti-inflammatory antioxidant)
