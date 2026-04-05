@@ -207,7 +207,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
         * Molybdenum
         * Selenium
       * Lutein for eyes
-    * [Methylcobalamin B12](https://www.rossmann.de/de/gesundheit-nature-love-vitamin-b12-tropfen/p/4260488135557)
+    * [Vitamin B12 in form of Methylcobalamin](https://www.rossmann.de/de/gesundheit-nature-love-vitamin-b12-tropfen/p/4260488135557)
       * Methylcobalamin B12 is more bioavailable because the body can use it without conversion. (The less good alternative would be Cyanocobalamin B12 which must be converted and causes small amounts of cyanide as waste which is not good if your kidneys are not healthy.)
       * against brain fog (it really helps, try it definitely!)
     * [Vitamin K2 + D3 2500 I.U.](https://www.rossmann.de/de/gesundheit-doppelherz-vitamin-k2--d3-2500-ie-30-tabletten/p/4009932136616)
