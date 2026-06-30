@@ -199,6 +199,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
       * Minerals
         * Calcium
         * Phosphorus
+          * ⚠️⚠️ Cola contains too much Phosphorus, if you drink it daily, it removes Calcium from your bones (which causes osteoporosis) and together with D3 and Calcium it crystalizes (Calcium phosphate crystals) which damages your kidneys.
         * Magnesium for muscles, brain+nerve system, liver, kidneys, blood pressure, heart, bones+teeth
         * Zinc for eyes, brain, skin, bones, hair, muscles
       * Trace elements
