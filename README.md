@@ -200,6 +200,8 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
         * Calcium
         * Phosphorus
           * ⚠️⚠️ Cola contains too much Phosphorus: If you drink it daily, it removes Calcium from your bones (which causes osteoporosis) and together with D3 and Calcium it crystalizes (Calcium phosphate crystals) which damages your kidneys (kidney stones).
+          * ⚠️⚠️ Processed cheese (Schmelzkäse) is just as bad (sodium phosphates, diphosphates and polyphosphates).
+          * Artificial phosphorus (in sodas/processed food) is absorbed at ~100%, causing massive vascular and kidney filtration stress, unlike organic plant phosphorus (40-60%).
         * Magnesium for muscles, brain+nerve system, liver, kidneys, blood pressure, heart, bones+teeth
         * Zinc for eyes, brain, skin, bones, hair, muscles
       * Trace elements
