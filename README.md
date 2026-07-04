@@ -29,7 +29,27 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
     
     [[source]]
     mode = "nts"
+    address = "ptbtime2.ptb.de"
+    
+    [[source]]
+    mode = "nts"
+    address = "ptbtime3.ptb.de"
+    
+    [[source]]
+    mode = "nts"
     address = "ptbtime4.ptb.de"
+    
+    [[source]]
+    mode = "nts"
+    address = "sth1.nts.netnod.se"
+    
+    [[source]]
+    mode = "nts"
+    address = "mmo1.nts.netnod.se"
+    
+    [[source]]
+    mode = "nts"
+    address = "ntppool3.time.nl"
     ```
   * [warp](https://github.com/seanmonstar/warp) or [axum](https://github.com/tokio-rs/axum) web server framework
     * [Yew](https://github.com/yewstack/yew) or [Leptos](https://github.com/leptos-rs/leptos) web app framework
