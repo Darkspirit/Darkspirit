@@ -23,7 +23,7 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
   * [Stalwart server](https://github.com/stalwartlabs/mail-server): mail (JMAP,IMAP,SMTP,DKIM,DMARC,etc), contacts/calendars/files (WebDAV, JMAP), ACME client
   * [ntpd-rs](https://github.com/pendulum-project/ntpd-rs) with encrypted NTS instead of unencrypted NTP:
     ```toml
-    # comment other [[source]] blocks. add at the top of /etc/ntpd-rs/ntp.toml:
+    # comment out other [[source]] blocks. add at the top of /etc/ntpd-rs/ntp.toml:
     source = [
       { mode = "nts", address = "ptbtime1.ptb.de" },
       { mode = "nts", address = "ptbtime2.ptb.de" },
