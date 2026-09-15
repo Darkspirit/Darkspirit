@@ -248,6 +248,8 @@ Please support the following [memory safe](https://www.memorysafety.org/docs/mem
   * Physical activity: [Any movement](https://www.youtube.com/watch?v=Wmo7M9I4fGc&t=6327s) that gets the circulation going for at least 10 minutes (makes the heart beat a little faster) temporarily brings the immune system's T cells out of their resting place (lymph nodes and bone marrow) into the bloodstream and lets them go on patrol which helps against cancer.
   * ⚠️⚠️ At and below a pH value of 5.5, tooth enamel is irreversibly damaged, it begins to dissolve/demineralize (teeth become slightly yellow because the shell irreversibly becomes thinner, opaque white spot on tooth surface).
     * [later it looks like abraded, you only have the yellow core of the tooth left](https://medisiegel.de/gesundheit/zahnerosion)
+      * Don't use whitening toothpaste, it's like abrasive paper and should be called yellowing toothpaste.
+      * Use toothpaste with Hydroxyapatite and Fluoride [[1]](https://www.rossmann.de/de/gesundheit-prokudent-actischmelz-zahncreme-mit-flourid/p/4305615968995) [[2]](https://www.rossmann.de/de/gesundheit-apacare-repair/p/4260149350114).
     * caries risk (yellow/brown/black)
     * Don't have it multiple times a day, ideally not even daily.
     * Cover your teeth with saliva immediately after drinking/eating
